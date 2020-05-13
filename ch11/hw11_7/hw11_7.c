@@ -30,3 +30,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入數學成績: 25
+學生姓名: Many Wang
+生日: 10月2日
+數學成績: 25
+sizeof(s1)=24
+Press any key to continue . . .
+
+*/

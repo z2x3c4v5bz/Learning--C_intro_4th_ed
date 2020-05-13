@@ -40,3 +40,13 @@ double fac(int n)
 	
 	return sum;
 }
+
+
+/*
+
+my_fun(0.1,5)=0.105171
+my_fun(0.1,8)=0.105171
+my_fun(0.2,8)=0.221403
+Press any key to continue . . .
+
+*/

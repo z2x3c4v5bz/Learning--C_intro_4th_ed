@@ -10,3 +10,11 @@ int main(void)
 	
 	return 0;
 } 
+
+
+/*
+
+'30% 的學生來自中部地區，42%的學生來自南部地區。'
+Press any key to continue . . .
+
+*/

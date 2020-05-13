@@ -17,3 +17,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+5<20 成立
+Press any key to continue . . .
+
+*/

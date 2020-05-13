@@ -27,3 +27,12 @@ int length(char str[])
 	
 	return i;
 }
+
+
+/*
+
+Enter a string : I love you
+This string have 10 words(including space).
+Press any key to continue . . .
+
+*/

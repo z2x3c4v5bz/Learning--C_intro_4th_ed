@@ -17,3 +17,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一個整數:-3
+輸入的整數其絕對值為:3
+Press any key to continue . . .
+
+*/

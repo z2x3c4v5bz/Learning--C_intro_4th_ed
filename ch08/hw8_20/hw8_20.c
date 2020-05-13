@@ -30,3 +30,12 @@ int sum(int n)
 	else
 		return n+sum(n-1);
 }
+
+
+/*
+
+輸入一個n，計算1+2+...+(n-1)+n的值 : 6
+Answer : 21
+Press any key to continue . . .
+
+*/

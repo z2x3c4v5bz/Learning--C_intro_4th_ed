@@ -30,3 +30,12 @@ int sum2(int n)
 	else
 		return 2*n+sum2(n-1);
 }
+
+
+/*
+
+輸入一個n，計算2+4+...+2(n-1)+2n的值 : 32
+Answer : 1056
+Press any key to continue . . .
+
+*/

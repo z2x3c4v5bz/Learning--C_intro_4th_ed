@@ -45,3 +45,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Window A, area=2000
+Press any key to continue . . .
+
+*/

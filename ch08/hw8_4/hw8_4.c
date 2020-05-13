@@ -18,3 +18,11 @@ double square(double n)
 {
 	return n*n;
 }
+
+
+/*
+
+4.000000^2=16.000000
+Press any key to continue . . .
+
+*/

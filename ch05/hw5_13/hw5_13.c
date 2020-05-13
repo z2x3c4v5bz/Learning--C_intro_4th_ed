@@ -15,3 +15,12 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+輸入英里數: 3
+公里數為: 4.800000
+Press any key to continue . . .
+
+*/

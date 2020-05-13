@@ -12,3 +12,12 @@ int main(void)
 	system("pause");
 	return 0;
 } 
+
+
+/*
+
+str[]=Hello, C language
+sizeof(str[])=18
+Press any key to continue . . .
+
+*/

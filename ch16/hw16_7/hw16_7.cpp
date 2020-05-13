@@ -29,3 +29,12 @@ float add(float num1,float num2)
 	a=num1+num2;
 	return a;
 }
+
+
+/*
+
+5+3=8
+5.5+4.3=9.8
+Press any key to continue . . .
+
+*/

@@ -23,3 +23,11 @@ void show_binary(int num)
 		printf("%d",b[i]);
 	printf("\n");
 }
+
+
+/*
+
+640的二進位為: 1010000000
+Press any key to continue . . .
+
+*/

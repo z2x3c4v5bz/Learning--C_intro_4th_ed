@@ -15,3 +15,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+pi=3.14
+radius=1.00
+圓周長=6.28
+圓面積=3.14
+Press any key to continue . . .
+
+*/

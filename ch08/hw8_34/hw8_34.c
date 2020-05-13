@@ -12,3 +12,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Abs(-13.6)=13.6
+Press any key to continue . . .
+
+*/

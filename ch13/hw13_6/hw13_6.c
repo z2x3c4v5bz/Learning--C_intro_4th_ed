@@ -11,3 +11,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+*************
+歡迎使用C語言
+*************
+Press any key to continue . . .
+
+*/

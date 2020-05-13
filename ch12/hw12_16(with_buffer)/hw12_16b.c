@@ -14,7 +14,7 @@ int main(void)
 	int arr[10];
 	struct data tmp={0,0.0};
 	
-	fptr=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_16(with_buffer)\\rand.bin","rb");
+	fptr=fopen("rand.bin","rb");
 	
 	if(fptr!=NULL)
 	{
@@ -58,3 +58,14 @@ struct data calcu(int arr[])
 	
 	return tmp;
 }
+
+
+/*
+
+數列為:  1  2 15  4  2  5 10  1 10  1
+檔案讀取完成!!
+平均值為5.10
+最大值為15
+Press any key to continue . . .
+
+*/

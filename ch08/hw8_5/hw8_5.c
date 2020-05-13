@@ -18,3 +18,11 @@ int mod(int x,int y)
 {
 	return x-y*(x/y);
 }
+
+
+/*
+
+17與5的餘數=2
+Press any key to continue . . .
+
+*/

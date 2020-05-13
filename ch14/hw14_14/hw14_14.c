@@ -15,7 +15,6 @@ int main(void)
 	NODE *ptrc=(NODE *)malloc(sizeof(NODE));
 	NODE *ptrd=(NODE *)malloc(sizeof(NODE));
 	NODE *current=(NODE *)malloc(sizeof(NODE));
-	int i=0;
 	current=ptra;
 	
 	ptra->data=12;
@@ -57,3 +56,18 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Before:
+address=0000000000A11480, data=12, next=0000000000A114A0
+address=0000000000A114A0, data=38, next=0000000000A114C0
+address=0000000000A114C0, data=64, next=0000000000A114E0
+address=0000000000A114E0, data=37, next=0000000000000000
+After:
+address=0000000000A11480, data=12, next=0000000000A114E0
+address=0000000000A114E0, data=37, next=0000000000000000
+Press any key to continue . . .
+
+*/

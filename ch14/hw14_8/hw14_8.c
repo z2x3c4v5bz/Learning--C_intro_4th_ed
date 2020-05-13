@@ -31,3 +31,11 @@ int deleteElement(int *arr,int pos,int length)
 	
 	return length-1;
 }
+
+
+/*
+
+ 12 37 63
+Press any key to continue . . .
+
+*/

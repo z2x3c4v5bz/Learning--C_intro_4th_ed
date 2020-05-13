@@ -28,4 +28,13 @@ int main(void)
 	
 	system("pause");
 	return 0;
- } 
+}
+
+
+/*
+
+輸入一個1~7的整數:5
+今天要上班。
+Press any key to continue . . .
+
+*/

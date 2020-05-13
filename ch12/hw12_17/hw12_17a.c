@@ -13,7 +13,7 @@ int main(void)
 		int math;
 	}student[3]={{"Jenny",96},{"Katsuma",34},{"Akua",5}};
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_17\\student.bin",O_CREAT|O_WRONLY|O_BINARY);
+	f1=open("student.bin",O_CREAT|O_WRONLY|O_BINARY);
 	
 	if(f1!=-1)
 	{
@@ -27,3 +27,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+資料已寫入檔案!!
+Press any key to continue . . .
+
+*/

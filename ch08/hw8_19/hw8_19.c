@@ -24,3 +24,11 @@ double rpower(double b,int n)
 		else
 			return 1/b*rpower(b,n+1);
 }
+
+
+/*
+
+2.0的3次方=8.000000
+Press any key to continue . . .
+
+*/

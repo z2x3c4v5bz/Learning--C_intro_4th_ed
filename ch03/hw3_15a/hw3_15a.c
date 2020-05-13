@@ -11,3 +11,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+30000.099609
+Press any key to continue . . .
+
+*/

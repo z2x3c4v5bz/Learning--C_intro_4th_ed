@@ -16,3 +16,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1
+22
+333
+4444
+55555
+Press any key to continue . . .
+
+*/

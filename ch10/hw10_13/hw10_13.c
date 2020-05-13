@@ -16,3 +16,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+*p1=23
+*p2=15
+Press any key to continue . . .
+
+*/

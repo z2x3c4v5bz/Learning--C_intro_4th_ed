@@ -37,3 +37,12 @@ int listLength(NODE *first)
 	
 	return count;
 }
+
+
+/*
+
+arr= 12 43 56 34 98
+Length=5
+Press any key to continue . . .
+
+*/

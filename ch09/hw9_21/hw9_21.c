@@ -40,3 +40,17 @@ double average(int arr[ROW][COL])
 	
 	return sum/(ROW*COL);
 }
+
+
+/*
+
+Let A be a matrix and A=
+99 41 68
+34 51 77
+15 18 22
+23 29 31
+
+Average(A)=42.333333
+Press any key to continue . . .
+
+*/

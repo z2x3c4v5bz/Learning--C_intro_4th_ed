@@ -23,3 +23,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Before:
+ 12 43 56 34 98 76 43 24
+After:
+ 43 56 98 76 43
+Press any key to continue . . .
+
+*/

@@ -20,3 +20,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+2.5
+0.5
+3.5
+Sum=6.50
+Average=2.17
+Press any key to continue . . .
+
+*/

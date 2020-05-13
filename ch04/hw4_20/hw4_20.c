@@ -9,13 +9,13 @@ int main(void)
 	
 	printf("請輸入一個字元: ");
 	ch=getche();
-	printf("您輸入的字元是: ");
+	printf("\n您輸入的字元是: ");
 	putchar(ch);
 	putchar('\n');
 	
 	printf("請輸入一個字元: ");
 	ch=getch();
-	printf("您輸入的字元是: ");
+	printf("\n您輸入的字元是: ");
 	putchar(ch);
 	putchar('\n');
 	
@@ -23,3 +23,14 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+請輸入一個字元: a
+您輸入的字元是: a
+請輸入一個字元:
+您輸入的字元是: b
+Press any key to continue . . .
+
+*/

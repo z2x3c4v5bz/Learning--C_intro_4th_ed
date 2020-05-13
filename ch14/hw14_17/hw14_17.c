@@ -14,3 +14,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+ 12 43 56 34 98 76 43 24
+Press any key to continue . . .
+
+*/

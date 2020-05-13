@@ -14,3 +14,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+arr[0]=2
+arr[1]=3
+arr[2]=1
+arr[3]=7
+arr[4]=9
+Press any key to continue . . .
+
+*/

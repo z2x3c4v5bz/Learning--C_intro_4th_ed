@@ -39,3 +39,12 @@ double fac(int a)
 	
 	return sum;
 }
+
+
+/*
+
+my_fun(2.2,3)=-1.394689
+my_fun(2.2,5)=-1.391508
+Press any key to continue . . .
+
+*/

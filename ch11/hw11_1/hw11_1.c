@@ -16,3 +16,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+aaa佔了16個位元組
+Press any key to continue . . .
+
+*/

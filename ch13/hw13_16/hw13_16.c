@@ -21,3 +21,13 @@ int main(int argc,char *argv[])
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+C:\Users\C\C語言教學手冊_第四版\習題練習\ch13\hw13_16>hw13_16 welcome.txt
+Welcome to the
+world of C language
+Press any key to continue . . .
+
+*/

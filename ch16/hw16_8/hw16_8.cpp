@@ -31,3 +31,14 @@ float my_abs(float a)
 	else
 		return a;
 }
+
+
+/*
+
+my_abs(5)=5
+my_abs(-7)=7
+my_abs(3.5)=3.5
+my_abs(-1.3)=1.3
+Press any key to continue . . .
+
+*/

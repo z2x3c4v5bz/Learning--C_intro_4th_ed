@@ -32,3 +32,12 @@ int find_k(int n)
 		}
 	}
 }
+
+
+/*
+
+輸入一個整數n，將從4k+2找到一個最接近n的k值 : 360
+k值為89
+Press any key to continue . . .
+
+*/

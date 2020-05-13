@@ -25,3 +25,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一個整數:8591
+8591不是質數。
+Press any key to continue . . .
+
+*/

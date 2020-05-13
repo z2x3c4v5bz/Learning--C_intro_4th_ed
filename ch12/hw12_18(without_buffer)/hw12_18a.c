@@ -1,4 +1,4 @@
-/* hw12_18b(without_buffer) */
+/* hw12_18a(without_buffer) */
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
@@ -10,7 +10,7 @@ int main(void)
 	int i;
 	int arr[]={11326,4445,15589,23740,76840};
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_18(without_buffer)\\hw12_18.bin",O_CREAT|O_WRONLY|O_BINARY);
+	f1=open("hw12_18.txt",O_CREAT|O_WRONLY|O_TEXT);
 	
 	if(f1!=-1)
 	{
@@ -31,3 +31,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+數列為: 11326  4445 15589 23740 76840
+資料已寫入檔案!!
+Press any key to continue . . .
+
+*/

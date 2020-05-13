@@ -17,3 +17,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1到100間能被6整除的數有:
+6  12  18  24  30  36  42  48  54  60  66  72  78  84  90  96
+Press any key to continue . . .
+
+*/

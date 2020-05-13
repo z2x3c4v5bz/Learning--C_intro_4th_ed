@@ -16,7 +16,7 @@ void sort(struct data student[]);
 int main(void)
 {
 	int i;
-	struct data student[MAX]={{"BoZhang Lin",100},{"XiaoLang Lee",35},{"ZheMing Zhang",66},{"Sakura",90},{"XiaoMing Wang",59}};
+	struct data student[MAX]={{"Zachary Lin",100},{"XiaoLang Lee",35},{"ZheMing Zhang",66},{"Sakura",90},{"XiaoMing Wang",59}};
 	
 	printf("成績最高學生: %s\t分數: %d\n\n",best(student).name,best(student).math);
 	
@@ -87,3 +87,24 @@ void sort(struct data student[])
 	for(i=0;i<MAX;i++)
 		printf("%d. 姓名: %-15s\t分數: %3d\n",i+1,student[i].name,student[i].math);
 }
+
+
+/*
+
+成績最高學生: Zachary Lin       分數: 100
+
+-----不合格名單-----
+姓名: XiaoLang Lee              分數: 35
+姓名: XiaoMing Wang             分數: 59
+
+平均成績=70.00
+
+-----成績排名-----
+1. 姓名: Zachary Lin            分數: 100
+2. 姓名: Sakura                 分數:  90
+3. 姓名: ZheMing Zhang          分數:  66
+4. 姓名: XiaoMing Wang          分數:  59
+5. 姓名: XiaoLang Lee           分數:  35
+Press any key to continue . . .
+
+*/

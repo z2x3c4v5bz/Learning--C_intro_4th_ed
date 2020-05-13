@@ -6,9 +6,9 @@ int main(void)
 {
 	FILE *fptr1,*fptr2,*fptr3;
 	char str1[MAX],str2[MAX];
-	fptr1=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_8\\aa.txt","r");
-	fptr2=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_8\\bb.txt","r");
-	fptr3=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_8\\cc.txt","w");
+	fptr1=fopen("aa.txt","r");
+	fptr2=fopen("bb.txt","r");
+	fptr3=fopen("cc.txt","w");
 	
 	if(fptr1!=NULL&&fptr2!=NULL&&fptr3!=NULL)
 	{
@@ -30,3 +30,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+檔案合併完成!!
+Press any key to continue . . .
+
+*/

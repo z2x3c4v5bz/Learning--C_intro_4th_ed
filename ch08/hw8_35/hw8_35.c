@@ -1,7 +1,7 @@
 /* hw8_35 */
 #include <stdio.h>
 #include <stdlib.h>
-#include "C:\Users\Documents\C語言教學手冊_第四版\習題練習\ch08\hw8_35\area.h"
+#include "area.h"
 
 int main(void)
 {
@@ -16,3 +16,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+半徑為1.0的圓的面積=3.14
+長為5.0，寬為4.6的長方形的面積=23.00
+底為12.2，高為9.4的三角形的面積=57.34
+Press any key to continue . . .
+
+*/

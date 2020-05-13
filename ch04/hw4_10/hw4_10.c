@@ -16,3 +16,14 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+輸入兩個整數以計算乘積 :
+2
+4
+2*4=8
+Press any key to continue . . .
+
+*/

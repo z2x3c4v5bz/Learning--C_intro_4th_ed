@@ -35,3 +35,13 @@ int idx(int arr[])
 	
 	return idx;
 }
+
+
+/*
+
+test[]= 19  11  21  13  12  15 
+
+Index of the minimum value in test[] is 1.
+Press any key to continue . . .
+
+*/

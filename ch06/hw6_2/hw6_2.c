@@ -21,3 +21,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+請輸入一個整數:33
+您鍵入的整數大於零。
+程式結束。
+Press any key to continue . . .
+
+*/

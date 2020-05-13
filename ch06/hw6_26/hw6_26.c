@@ -33,3 +33,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入1~4的數字:2
+夏天
+Press any key to continue . . .
+
+*/

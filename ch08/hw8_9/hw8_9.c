@@ -31,3 +31,11 @@ int is_prime(int num)
 	else
 		return 0;
 }
+
+
+/*
+
+  2  3  5  7 11 13 17 19 23 29
+Press any key to continue . . .
+
+*/

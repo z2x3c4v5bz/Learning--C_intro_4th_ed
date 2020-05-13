@@ -20,3 +20,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Matrix A+B=
+  4  2  5
+  8 11 15
+Press any key to continue . . .
+
+*/

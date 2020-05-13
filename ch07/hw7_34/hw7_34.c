@@ -20,3 +20,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+最少有58隻兔子。
+Press any key to continue . . .
+
+*/

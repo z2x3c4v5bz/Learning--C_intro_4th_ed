@@ -22,3 +22,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+工讀生總共工讀時數:48
+應付薪資為: 3600.00
+Press any key to continue . . .
+
+*/

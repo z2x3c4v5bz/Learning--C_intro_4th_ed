@@ -40,3 +40,15 @@ int main (void)
 	system("pause");
 	return 0; 
 }
+
+
+/*
+
+Window A:
+Area = 2000
+設定視窗標題 : mywin
+所輸入的視窗標題為 : mywin
+sizeof(Win1) = 64個位元組
+Press any key to continue . . .
+
+*/

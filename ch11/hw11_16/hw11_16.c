@@ -46,3 +46,13 @@ void display(struct time st,struct time en,struct time el)
 	printf("end=%2d:%2d:%2.2lf\n",en.hour,en.minutes,en.second);
 	printf("elapse=%2d:%2d:%2.2lf\n",el.hour,el.minutes,el.second);
 }
+
+
+/*
+
+start=12:32:25.49
+end=14:11:17.53
+elapse= 2:39:52.04
+Press any key to continue . . . 
+
+*/

@@ -18,3 +18,17 @@ int main(void)
 	system("pause");
 	return 0;
 } 
+
+
+/*
+
+sizeof(arr)=33
+arr[0]=000000000061FDE0
+arr[1]=000000000061FDEB
+arr[2]=000000000061FDF6
+arr[0]=C language
+arr[1]=C++
+arr[2]=Java
+Press any key to continue . . .
+
+*/

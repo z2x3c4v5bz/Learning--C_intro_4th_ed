@@ -6,7 +6,7 @@ int main(void)
 	FILE *fptr;
 	char str[5];
 	
-	fptr=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_3\\welcome.txt","r");
+	fptr=fopen("welcome.txt","r");
 	if(fptr!=NULL)
 	{
 		while(fgets(str,5,fptr)!=NULL)
@@ -20,3 +20,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Welcome to the
+world of C language
+Press any key to continue . . .
+
+*/

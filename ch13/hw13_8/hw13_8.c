@@ -13,3 +13,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+呼叫func()之前,a=100
+於func()函數裡,a=300
+呼叫func()之後,a=300
+Press any key to continue . . .
+
+*/

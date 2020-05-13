@@ -17,7 +17,7 @@ int main(void)
 	int arr[10];
 	struct data tmp={0,0.0};
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_16(without_buffer)\\rand.bin",O_RDONLY|O_BINARY);
+	f1=open("rand.bin",O_RDONLY|O_BINARY);
 	
 	if(f1!=-1)
 	{
@@ -61,3 +61,14 @@ struct data calcu(int arr[])
 	
 	return tmp;
 }
+
+
+/*
+
+數列為: 16  6 15  6 10 15 16  4  2  4
+檔案讀取完成!!
+平均值為9.40
+最大值為16
+Press any key to continue . . .
+
+*/

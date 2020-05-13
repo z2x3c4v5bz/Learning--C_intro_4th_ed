@@ -12,3 +12,12 @@ int main(void)
 	system("pause");
 	return 0; 
 }
+
+
+/*
+
+請輸入一個整數:5
+num=5
+Press any key to continue . . .
+
+*/

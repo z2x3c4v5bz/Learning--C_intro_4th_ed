@@ -26,3 +26,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+從100~999間的所有Armstrong數有:
+153  370  371  407
+Press any key to continue . . .
+
+*/

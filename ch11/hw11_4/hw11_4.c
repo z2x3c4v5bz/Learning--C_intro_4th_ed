@@ -38,3 +38,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+start=12:32:25.49
+end=15:12:17.53
+elapse= 2:39:52.04
+Press any key to continue . . . 
+
+*/

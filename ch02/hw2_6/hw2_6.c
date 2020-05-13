@@ -10,3 +10,11 @@ int main(void)
 	system("pause");
 	return 0;
  }
+
+
+/*
+
+ 6 + 7 +24 = 37
+Press any key to continue . . .
+
+*/

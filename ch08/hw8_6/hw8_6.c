@@ -23,3 +23,11 @@ int power(int x,int n)
 	
 	return ans;
 }
+
+
+/*
+
+5的3次方=125
+Press any key to continue . . .
+
+*/

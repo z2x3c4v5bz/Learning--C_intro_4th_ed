@@ -17,3 +17,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入西元年:1995
+西元 1995 年為平年。
+Press any key to continue . . .
+
+*/

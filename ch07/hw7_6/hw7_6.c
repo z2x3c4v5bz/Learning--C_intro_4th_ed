@@ -24,3 +24,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一正整數: 64
+64的因數有:
+1  2  4  8  16  32  64
+Press any key to continue . . .
+
+*/

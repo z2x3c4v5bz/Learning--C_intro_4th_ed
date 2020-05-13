@@ -17,3 +17,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1到100間能被3與7整除的數有:
+21  42  63  84
+Press any key to continue . . .
+
+*/

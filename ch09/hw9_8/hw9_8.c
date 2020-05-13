@@ -25,3 +25,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+arr[]中的所有值 : 10 27 18 35 0 -35 -3 -17 20 3
+arr[]中最大值的索引值為3；最小為5。
+Press any key to continue . . .
+
+*/

@@ -28,3 +28,12 @@ void add5(struct data *ptr)
 {
 	ptr->math+=5;
 }
+
+
+/*
+
+呼叫函數add5()之前，s1.math= 74
+呼叫函數add5()之後，s1.math= 79
+Press any key to continue . . .
+
+*/

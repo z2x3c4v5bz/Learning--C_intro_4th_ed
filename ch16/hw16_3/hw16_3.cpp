@@ -11,3 +11,12 @@ int main(void)
 	system("pause");
 	return 0;
 } 
+
+
+/*
+
+I have 2 cats.
+You have 2 cats, too.
+Press any key to continue . . .
+
+*/

@@ -10,3 +10,11 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+I love C language best.
+Press any key to continue . . .
+
+*/

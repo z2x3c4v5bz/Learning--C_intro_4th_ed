@@ -19,3 +19,11 @@ int add(int num1,int num2)
 	a=num1+num2;
 	return a;
 }
+
+
+/*
+
+5+3=8
+Press any key to continue . . .
+
+*/

@@ -12,3 +12,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Have a nice day!
+Press any key to continue . . .
+
+*/

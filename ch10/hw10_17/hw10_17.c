@@ -20,3 +20,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+The index of maximum value in array A is 0
+The index of minimum value in array A is 4
+Press any key to continue . . .
+
+*/

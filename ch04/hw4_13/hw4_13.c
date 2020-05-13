@@ -19,3 +19,15 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+隨便說個什麼吧~(不可有空格，最多10個字)
+我想說 : i_love_you
+" i_love_you "
+\           i_love_you \
+\ i_love_you           \
+Press any key to continue . . .
+
+*/

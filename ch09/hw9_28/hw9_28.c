@@ -14,7 +14,7 @@ int main(void)
 	gets(userstr);
 	toLower(userstr);
 	
-	printf("All the capital letter in this string has been changed to lowercase, as follows:\n");
+	printf("字串內的所有字母已經被轉換為小寫字母，如下:\n");
 	puts(userstr);
 	
 	system("pause");
@@ -32,3 +32,13 @@ void toLower(char str[])
 		i++;
 	}
 }
+
+
+/*
+
+Enter a string : I love you
+字串內的所有字母已經被轉換為小寫字母，如下:
+i love you
+Press any key to continue . . .
+
+*/

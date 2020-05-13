@@ -14,3 +14,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入整數體重:66
+不會過重。
+Press any key to continue . . .
+
+*/

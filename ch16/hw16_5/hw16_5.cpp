@@ -20,3 +20,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+請輸入n值(n>0):5
+1+2+...+5=15
+Press any key to continue . . .
+
+*/

@@ -28,3 +28,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+方程式有兩個實根 x = 3.000000 和 -0.333333
+Press any key to continue . . .
+
+*/

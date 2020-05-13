@@ -47,3 +47,18 @@ void count(int arr[])
 			printf("%2d ",arr[i]);
 	printf("\n");
 }
+
+
+/*
+
+Suppose an array test[] as following:
+19 11 21 13 12 15
+
+This array have 1 even numbers.
+12
+
+This array have 5 odd numbers.
+19 11 21 13 15
+Press any key to continue . . .
+
+*/

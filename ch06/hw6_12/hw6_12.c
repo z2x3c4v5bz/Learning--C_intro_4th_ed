@@ -21,3 +21,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入學生成績:90
+評等 : A
+Press any key to continue . . .
+
+*/

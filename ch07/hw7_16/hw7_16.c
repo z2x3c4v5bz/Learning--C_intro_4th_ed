@@ -17,3 +17,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+ASCII of ch=115
+ASCII of ch=54
+ASCII of ch=3
+您已按了Ctrl+q或Ctrl+c...
+Press any key to continue . . .
+
+*/

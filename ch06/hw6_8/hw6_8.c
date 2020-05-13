@@ -21,3 +21,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+ 3 、 4 和 5 可以組成直角三角形。
+Press any key to continue . . .
+
+*/

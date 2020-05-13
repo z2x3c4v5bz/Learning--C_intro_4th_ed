@@ -16,3 +16,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+最少23個。
+Press any key to continue . . .
+
+*/

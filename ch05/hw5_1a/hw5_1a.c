@@ -12,4 +12,13 @@ int main(void)
 	system("pause");
 	
 	return 0;
- } 
+}
+
+
+/*
+
+a=9
+a=9
+Press any key to continue . . .
+
+*/

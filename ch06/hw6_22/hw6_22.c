@@ -28,3 +28,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一個字元a(A)或b(B):A
+您輸入的是A
+Press any key to continue . . .
+
+*/

@@ -31,3 +31,14 @@ NODE *insertFirstNode(NODE *first,int item)
 	
 	return newnode;
 }
+
+
+/*
+
+Before:
+ 12 43 56 34
+After:
+ 53 12 43 56 34
+Press any key to continue . . .
+
+*/

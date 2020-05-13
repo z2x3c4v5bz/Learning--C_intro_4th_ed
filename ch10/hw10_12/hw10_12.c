@@ -29,3 +29,12 @@ void square(int *arr)
 	for(i=0;i<SIZE;i++)
 		arr[i]*=arr[i];
 }
+
+
+/*
+
+num[]={1,2,3,4,5}
+square(num)={1,4,9,16,25}
+Press any key to continue . . .
+
+*/

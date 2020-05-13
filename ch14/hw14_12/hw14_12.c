@@ -37,3 +37,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+address=0000000000A21480, data=12, next=0000000000A21490
+address=0000000000A21490, data=38, next=0000000000A214A0
+address=0000000000A214A0, data=64, next=0000000000A214B0
+address=0000000000A214B0, data=37, next=0000000000000000
+Press any key to continue . . .
+
+*/

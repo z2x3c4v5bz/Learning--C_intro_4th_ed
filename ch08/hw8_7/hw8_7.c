@@ -33,3 +33,11 @@ int prime(int n)
 	}
 	return -1;
 }
+
+
+/*
+
+第100個質數為541
+Press any key to continue . . .
+
+*/

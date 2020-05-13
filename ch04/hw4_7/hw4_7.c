@@ -12,3 +12,9 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+num=+0012.34
+Press any key to continue . . .
+*/

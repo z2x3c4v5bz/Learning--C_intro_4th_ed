@@ -30,3 +30,11 @@ int insertElement(int *arr,int item,int pos,int length)
 	
 	return length+1;
 }
+
+
+/*
+
+ 12 56 10 37 63
+Press any key to continue . . .
+
+*/

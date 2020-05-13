@@ -10,3 +10,11 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+There is an old saying, "Love me, love my dog."
+Press any key to continue . . .
+
+*/

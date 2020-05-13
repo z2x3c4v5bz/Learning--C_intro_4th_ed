@@ -20,3 +20,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+3.5
+2.5
+1.5
+3.5+2.5+1.5=7.5
+Average=2.5000
+Press any key to continue . . .
+
+*/

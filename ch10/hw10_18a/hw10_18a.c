@@ -13,3 +13,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Number of characters in *ptr is 20
+Press any key to continue . . .
+
+*/

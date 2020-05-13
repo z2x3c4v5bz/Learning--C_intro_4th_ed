@@ -10,7 +10,7 @@ int main(void)
 	char str[MAX],ch;
 	int i=0;
 	
-	fptr=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_6\\output.txt","a");
+	fptr=fopen("output.txt","a");
 	
 	if(fptr!=NULL)
 	{
@@ -20,7 +20,7 @@ int main(void)
 		putc('\n',fptr);
 		fwrite(str,sizeof(char),i,fptr);
 		fclose(fptr);
-		printf("\nProcess are already done.\n");
+		printf("\nProcess done.\n");
 	}
 	else
 		printf("Filed to open the file.\n");
@@ -28,3 +28,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Please enter a string and end entry with ENTER:
+I Love C
+Process done.
+Press any key to continue . . .
+
+*/

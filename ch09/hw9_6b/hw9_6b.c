@@ -16,3 +16,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+array[]中，介於3~6之間的元素共有8個。
+Press any key to continue . . .
+
+*/

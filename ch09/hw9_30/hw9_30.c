@@ -35,3 +35,13 @@ void string_cpy(char arr1[MAX][LENGTH],char arr2[MAX][LENGTH])
 		arr2[i][j]='\0';
 	}
 }
+
+
+/*
+
+str2[0]=Tom
+str2[1]=Lily
+str2[2]=James Lee
+Press any key to continue . . .
+
+*/

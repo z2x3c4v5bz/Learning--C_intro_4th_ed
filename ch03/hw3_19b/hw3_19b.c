@@ -10,3 +10,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+0.625000
+Press any key to continue . . .
+
+*/

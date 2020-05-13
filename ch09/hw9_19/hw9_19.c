@@ -33,3 +33,15 @@ void square(int arr[])
 	for(i=0;i<SIZE;i++)
 		arr[i]*=arr[i];
 }
+
+
+/*
+
+Before call the function "square", the value in test[] as following:
+  2  -4   6  -8  10 -12
+
+After called the function "square", the value in test[] as following:
+  4  16  36  64 100 144
+Press any key to continue . . .
+
+*/

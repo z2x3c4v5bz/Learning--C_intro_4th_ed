@@ -29,3 +29,13 @@ void show_binary(int num)
 		printf("%d",b[i]);
 	printf("\n");
 }
+
+
+/*
+
+89 二進位的值為: 01011001
+右移兩個位元後: 00010110
+右移兩個個位元後的十進位值為: 22
+Press any key to continue . . .
+
+*/

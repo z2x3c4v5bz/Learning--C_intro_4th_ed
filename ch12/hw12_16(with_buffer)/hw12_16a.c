@@ -9,7 +9,7 @@ int main(void)
 	int str[10];
 	srand(time(NULL));
 	
-	fptr=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_16(with_buffer)\\rand.bin","wb");
+	fptr=fopen("rand.bin","wb");
 	
 	if(fptr!=NULL)
 	{
@@ -31,3 +31,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+亂數為:  1  2 15  4  2  5 10  1 10  1
+檔案寫入完成!!
+Press any key to continue . . .
+
+*/

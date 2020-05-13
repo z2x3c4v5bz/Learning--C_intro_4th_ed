@@ -26,3 +26,16 @@ int main(void)
 	system("pause");
 	return 0; 
 }
+
+
+/*
+
+學生姓名: Catherine
+數學成績: 60
+學生姓名: Katherine
+數學成績: 80
+Catherine 的數學成績=60
+Katherine 的數學成績=80
+Press any key to continue . . .
+
+*/

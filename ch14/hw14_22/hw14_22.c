@@ -37,3 +37,15 @@ void combineList(NODE *first1,NODE *first2)
 	
 	link->next=first2;
 }
+
+
+/*
+
+Before:
+arr1= 12 43 56 34 98
+arr2= 36 77 99
+After:
+ 12 43 56 34 98 36 77 99
+Press any key to continue . . .
+
+*/

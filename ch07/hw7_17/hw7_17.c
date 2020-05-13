@@ -18,3 +18,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1  4  9  16  25  36  49  64  81  100
+1~10間各個數字的平方和=385
+Press any key to continue . . .
+
+*/

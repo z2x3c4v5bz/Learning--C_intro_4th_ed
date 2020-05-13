@@ -7,7 +7,7 @@ int main(void)
 	int arr[4];
 	int a,b,i;
 	
-	fptr=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_14\\hw12_14.bin","rb");
+	fptr=fopen("C:\\Users\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_14\\hw12_14.bin","rb");
 	
 	if(fptr!=NULL)
 	{
@@ -28,3 +28,16 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+arr[0]=12
+arr[1]=4
+arr[2]=5
+arr[3]=6
+a=12
+b=16
+Press any key to continue . . .
+
+*/

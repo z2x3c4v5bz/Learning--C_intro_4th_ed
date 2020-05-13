@@ -30,3 +30,12 @@ int rsum(int n)
 	else
 		return (n-1)*n+rsum(n-1);
 }
+
+
+/*
+
+輸入一個n，計算1*2+2*3+...+(n-1)*n的值 : 64
+Answer : 87360
+Press any key to continue . . .
+
+*/

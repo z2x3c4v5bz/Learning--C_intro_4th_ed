@@ -13,3 +13,11 @@ int main(void)
 	system("pause");
 	return 0;
 } 
+
+
+/*
+
+12^2=144
+Press any key to continue . . .
+
+*/

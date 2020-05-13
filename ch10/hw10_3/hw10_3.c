@@ -13,3 +13,13 @@ int main(void)
 	system("pause");
 	return 0;
 } 
+
+
+/*
+
+num=4.2, address of num is 000000000061FE14
+a1=4, address of a1 is 000000000061FE18
+a2=12, address of a2 is 000000000061FE1C
+Press any key to continue . . .
+
+*/

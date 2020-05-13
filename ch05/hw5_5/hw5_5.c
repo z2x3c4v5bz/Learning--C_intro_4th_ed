@@ -26,3 +26,15 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+ 6% 4= 2
+12% 6= 0
+12%12= 0
+35%50=35
+50%35=15
+Press any key to continue . . .
+
+*/

@@ -47,3 +47,13 @@ int main(void)
 		system("pause");
 		return 0;
 }
+
+
+/*
+
+輸入應付金額:3214
+輸入實付金額:5000
+總共要找 1 張1000元、 1 張500元、 2 張100元、 1 個50元、 3 個10元、 1 個5元、 1 個1元。
+Press any key to continue . . .
+
+*/

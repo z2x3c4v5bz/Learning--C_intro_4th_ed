@@ -20,3 +20,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+The maximum value in array A is 74
+The minimum value in array A is 17
+Press any key to continue . . .
+
+*/

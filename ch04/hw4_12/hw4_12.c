@@ -18,3 +18,13 @@ int main(void)
 	
 	return 0;
 } 
+
+
+/*
+
+輸入姓氏 : Lin
+輸入名字(不可有空白!) : Zachary
+你的名字是 : Zachary Lin
+Press any key to continue . . .
+
+*/

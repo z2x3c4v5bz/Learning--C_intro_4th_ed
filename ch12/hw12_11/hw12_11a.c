@@ -12,7 +12,7 @@ int main(void)
 	char str[3];
 	srand(time(NULL));
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_11\\rand.txt",O_WRONLY|O_CREAT|O_TEXT);
+	f1=open("rand.txt",O_WRONLY|O_CREAT|O_TEXT);
 	
 	if(f1!=-1)
 	{
@@ -33,3 +33,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+亂數為: 15  44   4  33  10   5  37  63  48  14
+檔案寫入完成!!
+Press any key to continue . . .
+
+*/

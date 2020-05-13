@@ -12,7 +12,7 @@ int main(void)
 	int arr[10];
 	srand(time(NULL));
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_16(without_buffer)\\rand.bin",O_CREAT|O_WRONLY|O_BINARY,S_IWRITE);
+	f1=open("rand.bin",O_CREAT|O_WRONLY|O_BINARY,S_IWRITE);
 	
 	if(f1!=-1)
 	{
@@ -34,3 +34,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+亂數為: 16  6 15  6 10 15 16  4  2  4
+檔案寫入完成!!
+Press any key to continue . . .
+
+*/

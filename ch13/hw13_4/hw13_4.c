@@ -11,3 +11,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+半徑為 2.20, area(2.2)=15.21
+半徑為 1.40, peri(1.4)= 8.80
+Press any key to continue . . .
+
+*/

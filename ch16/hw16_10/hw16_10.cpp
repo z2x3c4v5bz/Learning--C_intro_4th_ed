@@ -23,3 +23,13 @@ int main (void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+obj.a=1
+obj.b=3
+obj.c=4
+Press any key to continue . . .
+
+*/

@@ -6,8 +6,8 @@ int main(void)
 	FILE *fptr1,*fptr2;
 	char str[5];
 	
-	fptr1=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_5\\welcome.txt","r");
-	fptr2=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_5\\output.txt","w");
+	fptr1=fopen("welcome.txt","r");
+	fptr2=fopen("output.txt","w");
 	
 	if((fptr1!=NULL)&&(fptr2!=NULL))
 	{
@@ -23,3 +23,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+The file has been copied already!
+Press any key to continue . . .
+
+*/

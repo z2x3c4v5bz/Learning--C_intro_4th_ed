@@ -37,3 +37,15 @@ int main (void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+box1(5,3,7) volume()=105
+box1(5,3,7) surfaceArea()=142
+
+box2(1,1,1) volume()=1
+box2(1,1,1) surfaceArea()=6
+Press any key to continue . . .
+
+*/

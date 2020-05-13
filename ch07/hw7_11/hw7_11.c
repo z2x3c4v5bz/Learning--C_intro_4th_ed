@@ -25,3 +25,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1~1000間的完美數有:
+6  28  496
+Press any key to continue . . .
+
+*/

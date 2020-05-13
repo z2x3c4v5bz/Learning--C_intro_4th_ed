@@ -10,3 +10,11 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+"100/4=25"
+Press any key to continue . . .
+
+*/

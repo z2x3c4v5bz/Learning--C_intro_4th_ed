@@ -20,3 +20,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+arr2[0]=Tom
+arr2[1]=Lily
+arr2[2]=James Lee
+Press any key to continue . . . 
+
+*/

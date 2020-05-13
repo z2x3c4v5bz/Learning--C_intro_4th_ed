@@ -33,3 +33,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+address=000000000061FDC0, data=12, next=000000000061FDD0
+address=000000000061FDD0, data=38, next=000000000061FDE0
+address=000000000061FDE0, data=64, next=000000000061FDF0
+address=000000000061FDF0, data=37, next=0000000000000000
+Press any key to continue . . .
+
+*/

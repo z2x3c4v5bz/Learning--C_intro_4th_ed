@@ -33,3 +33,22 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+ptr1=&b         a=28    b=16    ptr1=000000000061FE0C   *ptr1=16        ptr2=0000000000401519   *ptr2=8
+ptr2=&a         a=28    b=16    ptr1=000000000061FE0C   *ptr1=16        ptr2=000000000061FE08   *ptr2=28
+*ptr1=4         a=28    b=4     ptr1=000000000061FE0C   *ptr1=4         ptr2=000000000061FE08   *ptr2=28
+a=16            a=16    b=4     ptr1=000000000061FE0C   *ptr1=4         ptr2=000000000061FE08   *ptr2=16
+*ptr2=12        a=12    b=4     ptr1=000000000061FE0C   *ptr1=4         ptr2=000000000061FE08   *ptr2=12
+ptr2=ptr1       a=12    b=4     ptr1=000000000061FE0C   *ptr1=4         ptr2=000000000061FE0C   *ptr2=4
+*ptr1=19        a=12    b=19    ptr1=000000000061FE0C   *ptr1=19        ptr2=000000000061FE0C   *ptr2=19
+ptr1=&a         a=12    b=19    ptr1=000000000061FE08   *ptr1=12        ptr2=000000000061FE0C   *ptr2=19
+a=7             a=7     b=19    ptr1=000000000061FE08   *ptr1=7         ptr2=000000000061FE0C   *ptr2=19
+*ptr2=*ptr1     a=7     b=7     ptr1=000000000061FE08   *ptr1=7         ptr2=000000000061FE0C   *ptr2=7
+
+a=7     b=7     ptr1=000000000061FE08   *ptr1=7 ptr2=000000000061FE0C   *ptr2=7
+Press any key to continue . . .
+
+*/

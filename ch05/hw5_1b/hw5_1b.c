@@ -15,4 +15,13 @@ int main(void)
 	system("pause");
 	
 	return 0;
- } 
+}
+
+
+/*
+
+a=0
+b=3
+Press any key to continue . . .
+
+*/

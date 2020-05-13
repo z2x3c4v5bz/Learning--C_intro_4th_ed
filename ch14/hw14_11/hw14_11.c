@@ -46,3 +46,19 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Before:
+address=000000000061FDE8, data=12, next=000000000061FDB8
+address=000000000061FDB8, data=38, next=000000000061FDC8
+address=000000000061FDC8, data=64, next=000000000061FDD8
+address=000000000061FDD8, data=37, next=0000000000000000
+After:
+address=000000000061FDE8, data=12, next=000000000061FDC8
+address=000000000061FDC8, data=64, next=000000000061FDD8
+address=000000000061FDD8, data=37, next=0000000000000000
+Press any key to continue . . .
+
+*/

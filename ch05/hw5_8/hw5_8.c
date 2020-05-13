@@ -15,3 +15,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+12-4%6/4=11
+7*5%12*6/4=16
+(13%6)/7*8=0
+Press any key to continue . . .
+
+*/

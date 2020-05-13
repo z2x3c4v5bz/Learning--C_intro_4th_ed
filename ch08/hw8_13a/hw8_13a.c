@@ -37,3 +37,13 @@ double fac(int a)
 	
 	return total;
 }
+
+
+/*
+
+my_fun(5)=1.716667
+my_fun(8)=1.718279
+my_fun(10)=1.718282
+Press any key to continue . . .
+
+*/

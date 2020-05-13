@@ -31,3 +31,21 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+ptr=&a  a=12    b=7     ptr=000000000061FE00    *ptr=12
+*ptr=19 a=19    b=7     ptr=000000000061FE00    *ptr=19
+ptr=&b  a=19    b=7     ptr=000000000061FE04    *ptr=7
+b=16    a=19    b=16    ptr=000000000061FE04    *ptr=16
+*ptr=12 a=19    b=12    ptr=000000000061FE04    *ptr=12
+a=17    a=17    b=12    ptr=000000000061FE04    *ptr=12
+ptr=&a  a=17    b=12    ptr=000000000061FE00    *ptr=17
+a=b     a=12    b=12    ptr=000000000061FE00    *ptr=12
+*ptr=63 a=63    b=12    ptr=000000000061FE00    *ptr=63
+
+a=63    b=12    ptr=000000000061FE00    *ptr=63
+Press any key to continue . . .
+
+*/

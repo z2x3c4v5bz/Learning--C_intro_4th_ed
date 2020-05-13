@@ -9,3 +9,11 @@ int main(void)
 	system("pause");					/* 系統在此暫停 */ 
 	return 0;
 }
+
+
+/*
+
+5+5=10
+Press any key to continue . . .
+
+*/

@@ -7,7 +7,7 @@ int main(void)
 	int arr[]={12, 4, 5, 6};
 	int a=12,b=16;
 	
-	fptr=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_14\\hw12_14.bin","wb");
+	fptr=fopen("hw12_14.bin","wb");
 	
 	if(fptr!=NULL)
 	{
@@ -24,3 +24,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+檔案寫入完成!!
+Press any key to continue . . .
+
+*/

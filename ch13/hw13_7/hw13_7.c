@@ -17,3 +17,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+請輸入cnt的初值: 9
+cnt=1
+cnt=2
+cnt=10
+Press any key to continue . . .
+
+*/

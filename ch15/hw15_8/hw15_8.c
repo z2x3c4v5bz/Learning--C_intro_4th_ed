@@ -21,3 +21,11 @@ void show_decimal(char arr[],int n)
 	
 	printf("10101的十進位是 : %d\n",dec);
 }
+
+
+/*
+
+10101的十進位是 : 21
+Press any key to continue . . .
+
+*/

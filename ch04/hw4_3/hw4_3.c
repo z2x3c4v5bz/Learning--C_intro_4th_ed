@@ -10,3 +10,12 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+"Holle, C"
+"Holle, World"
+Press any key to continue . . .
+
+*/

@@ -12,3 +12,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+num=12.6,
+&num=000000000061FE1C
+ptr=000000000061FE10
+Press any key to continue . . .
+
+*/

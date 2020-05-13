@@ -62,3 +62,14 @@ int find_k(int n)
 	
 	return 4*(k+1)+2;
 }
+
+
+/*
+
+Euler(10)=1.550760
+Euler(100)=1.566992
+Euler(1000)=1.568863
+Euler(10000)=1.570368
+Press any key to continue . . .
+
+*/

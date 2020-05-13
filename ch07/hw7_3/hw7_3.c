@@ -21,3 +21,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一個奇數:33
+從1到33間的奇數總合為289
+Press any key to continue . . .
+
+*/

@@ -17,3 +17,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Sum(A[4][2][3])=331
+Press any key to continue . . . 
+
+*/

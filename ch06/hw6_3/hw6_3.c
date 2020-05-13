@@ -17,3 +17,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一個數以判斷是奇數或偶數:55
+55是奇數
+Press any key to continue . . . 
+
+*/

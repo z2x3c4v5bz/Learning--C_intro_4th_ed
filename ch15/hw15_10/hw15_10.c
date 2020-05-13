@@ -31,3 +31,16 @@ void show_DecAndHexa(char *arr,int n)
 	printf("%s 的十進位是 %d\n",arr,dec);
 	printf("%s 的十六進位是 %x\n\n",arr,dec);
 }
+
+
+/*
+
+輸入一個八進位值 : 147
+
+輸入的八進位值是 147
+147 的十進位是 103
+147 的十六進位是 67
+
+Press any key to continue . . .
+
+*/

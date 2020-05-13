@@ -33,3 +33,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一個整數:8591
+小於8591的最大質數是8581。
+Press any key to continue . . .
+
+*/

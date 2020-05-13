@@ -28,3 +28,14 @@ double my_fun(int n)
 	
 	return sum;
 }
+
+
+/*
+
+my_fun(3)=0.875000
+my_fun(4)=0.937500
+my_fun(5)=0.968750
+my_fun(6)=0.984375
+Press any key to continue . . .
+
+*/

@@ -12,4 +12,16 @@ int main(void)
 	
 	system("pause");
 	return 0;
- } 
+}
+
+
+/*
+
+sizeof(578) = 4
+sizeof(784000000) = 4
+sizeof(6.78f) = 4
+sizeof(718.26) = 8
+sizeof(6.42e127) =8
+Press any key to continue . . .
+
+*/

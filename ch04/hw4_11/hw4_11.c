@@ -18,3 +18,13 @@ int main(void)
 	
 	return 0;
 } 
+
+
+/*
+
+輸入學號 : 911122
+輸入年齡 : 16
+學號為 : 911122 年齡為 : 16
+Press any key to continue . . .
+
+*/

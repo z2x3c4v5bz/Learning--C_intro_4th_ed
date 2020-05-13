@@ -24,3 +24,12 @@ void display(SCORE st)
 	printf("學生姓名: %s\n",st.name);
 	printf("數學成績: %d\n",st.math);
 }
+
+
+/*
+
+學生姓名: Jenny
+數學成績: 74
+Press any key to continue . . .
+
+*/

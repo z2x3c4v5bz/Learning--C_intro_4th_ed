@@ -12,3 +12,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+154&67=2
+154|67=219
+154^67=217
+
+Press any key to continue . . .
+
+*/

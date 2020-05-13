@@ -14,7 +14,7 @@ int main(void)
 		int math;
 	}student[3];
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_17\\student.bin",O_RDONLY|O_BINARY);
+	f1=open("student.bin",O_RDONLY|O_BINARY);
 	
 	if(f1!=-1)
 	{
@@ -33,3 +33,17 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+student[0].name=Jenny
+student[0].math=96
+student[1].name=Katsuma
+student[1].math=34
+student[2].name=Akua
+student[2].math=5
+檔案讀取完成!!
+Press any key to continue . . .
+
+*/

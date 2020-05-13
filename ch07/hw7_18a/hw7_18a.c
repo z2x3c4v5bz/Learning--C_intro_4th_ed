@@ -24,3 +24,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一個正偶數:64
+所有偶數到n的總合為 1056
+Press any key to continue . . .
+
+*/

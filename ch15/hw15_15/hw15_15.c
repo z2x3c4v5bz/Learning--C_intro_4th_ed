@@ -29,3 +29,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+性別 : 女,未婚,9歲,162公分,50公斤
+sizeof(maruco)=4
+Press any key to continue . . .
+
+*/

@@ -28,3 +28,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+ 99 41 68
+ 34 51 77
+ 15 18 22
+ 23 29 31
+matr[]裡最小值的檢索值是mart[2][0]
+Press any key to continue . . .
+
+*/

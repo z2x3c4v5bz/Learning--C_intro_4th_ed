@@ -26,3 +26,14 @@ int length(char *ptr2)
 	
 	return i+1;
 }
+
+
+/*
+
+Tom
+Lily
+James Lee
+共佔19個位元組
+Press any key to continue . . .
+
+*/

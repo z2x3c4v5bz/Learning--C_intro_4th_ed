@@ -28,3 +28,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+請輸入密碼: 6128
+密碼輸入正確，歡迎使用本系統!!
+Press any key to continue . . .
+
+*/

@@ -27,3 +27,13 @@ void display(char *ptr,int n)
 	ptr+=(n-1);
 	printf("%s\n",ptr);
 }
+
+
+/*
+
+str[]=Hello world!
+Enter a number(>0): 5
+str[5]=o world!
+Press any key to continue . . .
+
+*/

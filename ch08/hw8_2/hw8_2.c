@@ -25,3 +25,17 @@ void kitty(int k)
 		printf("Holle Kitty\n");
 		
 }
+
+
+/*
+
+輸入一個整數 : 6
+Holle Kitty
+Holle Kitty
+Holle Kitty
+Holle Kitty
+Holle Kitty
+Holle Kitty
+Press any key to continue . . .
+
+*/

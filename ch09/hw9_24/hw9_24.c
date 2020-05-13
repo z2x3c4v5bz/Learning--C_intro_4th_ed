@@ -55,3 +55,12 @@ void count(char str[],int cont[])
 		i++;
 	}
 }
+
+
+/*
+
+Enter a string : i love you
+This string have 0 'a', 1 'e', 1 'i', 2 'o' ,and 1 'u'.
+Press any key to continue . . .
+
+*/

@@ -32,3 +32,12 @@ int _max(int a,int b)
 	
 	return n;
 }
+
+
+/*
+
+_max(2, 1, 3)=3
+_max(1, 2)=2
+Press any key to continue . . .
+
+*/

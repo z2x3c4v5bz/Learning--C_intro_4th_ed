@@ -9,3 +9,11 @@ int main(void)
 	system("pause");
 	return 0;
  }  
+
+
+/*
+
+我愛C語言
+Press any key to continue . . .
+
+*/

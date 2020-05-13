@@ -7,7 +7,7 @@ int main(void)
 	FILE *fptr;
 	char str[MAX];
 	int bytes;
-	fptr=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_7\\output.txt","r");
+	fptr=fopen("output.txt","r");
 	
 	if(fptr!=NULL)
 	{
@@ -26,3 +26,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Welcome to the
+world of C language
+I love the C language best!
+Press any key to continue . . .
+
+*/

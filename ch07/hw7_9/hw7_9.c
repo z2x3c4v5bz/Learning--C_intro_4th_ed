@@ -19,3 +19,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1^2-2^2+3^2-4^2+...+47^2-48^2+49^2-50^2=-1275
+Press any key to continue . . .
+
+*/

@@ -12,3 +12,11 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+num=0028.47
+Press any key to continue . . .
+
+*/

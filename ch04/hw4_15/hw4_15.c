@@ -15,3 +15,13 @@ int main(void)
 	
 	return 0;
 } 
+
+
+/*
+
+輸入一個十六進位的數字 : 29a
+轉換成八進位為 : 1232
+轉換成十進位為 : 666
+Press any key to continue . . .
+
+*/

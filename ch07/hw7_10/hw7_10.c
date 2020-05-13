@@ -22,3 +22,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入正整數n: 10
+1/1+1/2+...+1/10=2.928968
+Press any key to continue . . .
+
+*/

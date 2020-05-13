@@ -13,3 +13,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Hello C language.
+Press any key to continue . . .
+
+*/

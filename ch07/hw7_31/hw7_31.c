@@ -20,3 +20,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1~100中能被2與3整除，但不能被12整除的數字有:
+6 18 30 42 54 66 78 90
+Press any key to continue . . .
+
+*/

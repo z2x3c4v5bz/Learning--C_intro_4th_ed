@@ -9,3 +9,11 @@ int main(void)
 	system("pause");
 	return 0;
  }
+
+
+/*
+
+You are my best friend.
+Press any key to continue . . .
+
+*/

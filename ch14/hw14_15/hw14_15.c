@@ -10,7 +10,7 @@ typedef struct node NODE;
 
 int main(void)
 {
-	int i,val,num;
+	int i,num;
 	NODE *first,*current,*previous;
 	printf("Number of nodes: ");
 	scanf("%d",&num);
@@ -44,3 +44,17 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Number of nodes: 3
+Data for node 1: 25
+Data for node 2: 35
+Data for node 3: 45
+address=0000000000711480, data=25, next=00000000007114A0
+address=00000000007114A0, data=35, next=00000000007114C0
+address=00000000007114C0, data=45, next=0000000000000000
+Press any key to continue . . .
+
+*/

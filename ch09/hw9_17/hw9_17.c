@@ -32,3 +32,13 @@ int min(int arr[])
 	
 	return min;	
 }
+
+
+/*
+
+test[]= 19  11  21  13  12  15
+
+The minimum value in test[] is 11.
+Press any key to continue . . .
+
+*/

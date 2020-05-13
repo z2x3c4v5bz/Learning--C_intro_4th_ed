@@ -15,3 +15,12 @@ int main(void)
 	
 	return 0;
 }
+
+
+/*
+
+輸入攝氏溫度: 33
+華氏溫度為: 91.399994
+Press any key to continue . . .
+
+*/

@@ -26,3 +26,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入一個字元a或b:c
+您輸入的不是a也不是b。
+Press any key to continue . . .
+
+*/

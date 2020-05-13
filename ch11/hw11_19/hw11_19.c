@@ -43,3 +43,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+請輸入r,g或b(大小寫沒有區別): g
+您選擇了綠色
+Press any key to continue . . .
+
+*/

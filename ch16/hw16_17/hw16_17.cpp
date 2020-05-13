@@ -38,3 +38,18 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+_rect1
+width=3
+height=4
+
+_rect2
+width=10
+height=8
+
+Press any key to continue . . .
+
+*/

@@ -13,3 +13,11 @@ int main(void)
 	system("pause");
 	return 0;
  }
+
+
+/*
+
+變數i的值小於5
+Press any key to continue . . .
+
+*/

@@ -22,3 +22,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Matrix A+B=
+   2  68  64
+  56  24  84
+  -3  19   2
+  44 -88  61
+Press any key to continue . . . 
+
+*/

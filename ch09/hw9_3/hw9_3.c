@@ -12,3 +12,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+arr[]共佔了20個位元組。
+Press any key to continue . . .
+
+*/

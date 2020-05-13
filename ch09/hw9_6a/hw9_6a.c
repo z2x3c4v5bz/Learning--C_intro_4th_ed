@@ -11,3 +11,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Number of elements of array[]=13.
+Press any key to continue . . .
+
+*/

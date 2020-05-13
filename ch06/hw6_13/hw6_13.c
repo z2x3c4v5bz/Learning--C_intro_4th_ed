@@ -23,3 +23,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入月份:6
+屬於夏季。
+Press any key to continue . . .
+
+*/

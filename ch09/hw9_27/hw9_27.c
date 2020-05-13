@@ -46,3 +46,12 @@ int length(char str[])
 	
 	return i;
 }
+
+
+/*
+
+Write something here : I love you
+uoy evol I
+Press any key to continue . . .
+
+*/

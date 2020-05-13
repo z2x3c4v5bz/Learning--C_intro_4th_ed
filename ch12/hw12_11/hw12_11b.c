@@ -10,7 +10,7 @@ int main(void)
 	int f1;
 	char buffer[3];
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_11\\rand.txt",O_RDONLY|O_TEXT);
+	f1=open("rand.txt",O_RDONLY|O_TEXT);
 	
 	if(f1!=-1)
 	{
@@ -32,3 +32,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+亂數為: 15 44  4 33 10  5 37 63 48 14
+檔案讀取完成!!
+Average=27.30
+Press any key to continue . . .
+
+*/

@@ -38,3 +38,16 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入2005: 2005
+輸入12: 12
+輸入25: 25
+
+holiday=04/26/2004
+festival=12/25/2005
+Press any key to continue . . .
+
+*/

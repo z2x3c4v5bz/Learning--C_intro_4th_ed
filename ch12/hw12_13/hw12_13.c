@@ -10,8 +10,8 @@ int main(void)
 	int a,b,i;
 	int f1;
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_12\\hw12_12.bin",O_RDONLY|O_BINARY);
-	
+	f1=open("C:\\Users\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_12\\hw12_12.bin",O_RDONLY|O_BINARY);
+
 	if(f1!=-1)
 	{
 		while(!eof(f1))
@@ -34,3 +34,17 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+arr[0]=12
+arr[1]=4
+arr[2]=5
+arr[3]=6
+a=12
+b=16
+資料讀取完成!!
+Press any key to continue . . .
+
+*/

@@ -18,4 +18,14 @@ int main(void)
 	
 	system("pause");
 	return 0;
- } 
+}
+
+
+/*
+
+請輸入一個整數: 53
+請輸入一個字元: a
+num=53, ASCII of ch=97
+Press any key to continue . . .
+
+*/

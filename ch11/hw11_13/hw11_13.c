@@ -32,3 +32,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+成績最高學生姓名: Lin 分數: 90
+成績不及格學生姓名: Lee 分數: 30
+成績不及格學生姓名: Wang 分數: 40
+平均成績: 62.00
+Press any key to continue . . .
+
+*/

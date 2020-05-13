@@ -17,3 +17,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+需要10天。
+Press any key to continue . . .
+
+*/

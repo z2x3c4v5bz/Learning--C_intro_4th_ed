@@ -20,3 +20,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1~100間奇數數字的總合為: 2500
+Press any key to continue . . .
+
+*/

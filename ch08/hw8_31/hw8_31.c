@@ -14,3 +14,13 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+f(1.00)=5.000000
+f(2.20)=27.560000
+f(3.14)=53.278400
+Press any key to continue . . .
+
+*/

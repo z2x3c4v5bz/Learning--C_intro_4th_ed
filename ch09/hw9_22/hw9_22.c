@@ -57,3 +57,30 @@ void add(int A[ROW][COL],int B[ROW][COL],int C[ROW][COL])
 			C[i][j]=A[i][j]+B[i][j];
 	}
 }
+
+
+/*
+
+Suppose A and B as matrix. and
+A=
+99 41 68 
+34 51 77
+15 18 22
+23 29 31
+B=
+31 29 23
+22 18 15
+77 51 34
+68 41 99
+
+C=A+B
+
+C=
+130  70  91
+ 56  69  92
+ 92  69  56
+ 91  70 130
+
+Press any key to continue . . .
+
+*/

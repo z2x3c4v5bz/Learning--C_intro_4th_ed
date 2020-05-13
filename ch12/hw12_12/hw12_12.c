@@ -10,7 +10,7 @@ int main(void)
 	int a=12,b=16;
 	int f1;
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_12\\hw12_12.bin",O_CREAT|O_WRONLY|O_BINARY,S_IWRITE);
+	f1=open("hw12_12.bin",O_CREAT|O_WRONLY|O_BINARY,S_IWRITE);
 	
 	if(f1!=-1)
 	{
@@ -27,3 +27,10 @@ int main(void)
 	return 0;
 }
 
+
+/*
+
+資料已寫入檔案!!
+Press any key to continue . . . 
+
+*/

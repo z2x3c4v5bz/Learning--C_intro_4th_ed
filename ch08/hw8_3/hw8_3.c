@@ -18,3 +18,11 @@ int cub(int n)
 {
 	return n*n*n;
 }
+
+
+/*
+
+2^3=8
+Press any key to continue . . .
+
+*/

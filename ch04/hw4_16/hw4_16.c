@@ -15,3 +15,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Input a string:input a string
+The string is input a string
+Press any key to continue . . .
+
+*/

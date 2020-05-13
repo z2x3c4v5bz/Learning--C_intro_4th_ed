@@ -50,3 +50,20 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+ract1
+weight=3.14159
+width=6
+height=5
+
+ract2
+weight=3.14159
+width=5
+height=2
+
+Press any key to continue . . .
+
+*/

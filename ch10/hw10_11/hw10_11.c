@@ -21,3 +21,12 @@ void add10(int *a,int *b)
 	*a+=10;
 	*b+=10;
 }
+
+
+/*
+
+呼叫函數 add10()之前: a=3, b=5
+呼叫函數 add10()之後: a=13, b=15
+Press any key to continue . . .
+
+*/

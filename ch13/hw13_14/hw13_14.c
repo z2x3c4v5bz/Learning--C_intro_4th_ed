@@ -14,3 +14,12 @@ int main(int argc,char *argv[])
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+C:\Users\C\C語言教學手冊_第四版\習題練習\ch13\hw13_14>hw13_14 a
+a's ASCII=97
+Press any key to continue . . .
+
+*/

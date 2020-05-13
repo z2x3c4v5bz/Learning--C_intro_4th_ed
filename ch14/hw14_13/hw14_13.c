@@ -54,3 +54,21 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Before:
+address=0000000000C81480, data=12, next=0000000000C81490
+address=0000000000C81490, data=38, next=0000000000C814A0
+address=0000000000C814A0, data=64, next=0000000000C814B0
+address=0000000000C814B0, data=37, next=0000000000000000
+After:
+address=0000000000C81480, data=12, next=0000000000C81490
+address=0000000000C81490, data=38, next=0000000000C814A0
+address=0000000000C814A0, data=64, next=0000000000C814D0
+address=0000000000C814D0, data=47, next=0000000000C814B0
+address=0000000000C814B0, data=37, next=0000000000000000
+Press any key to continue . . .
+
+*/

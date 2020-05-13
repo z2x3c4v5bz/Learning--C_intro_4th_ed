@@ -15,3 +15,13 @@ int main(void)
 	system("pause");
 	return 0;
 } 
+
+
+/*
+
+請輸入第一個字元: d
+請輸入第二個字元: a
+ch1=d, ch2=a
+Press any key to continue . . .
+
+*/

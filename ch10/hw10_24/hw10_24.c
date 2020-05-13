@@ -36,3 +36,17 @@ void search(int arr[][COL],int p[])
 				p[1]=*(*(arr+i)+j);
 		}
 }
+
+
+/*
+
+The elements in 2-dimensional array:
+26 05 07
+10 03 47
+06 76 08
+40 04 32
+The maximum value in A is 76
+The minimum value in A is 3
+Press any key to continue . . .
+
+*/

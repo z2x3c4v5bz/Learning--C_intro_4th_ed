@@ -23,3 +23,22 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+a_10=   159
+a_8=    237
+a_16=   9f
+
+b_8=    147
+b_10=   103
+b_16=   67
+
+c_16=   618a
+c_10=   24970
+c_8=    60612
+
+Press any key to continue . . .
+
+*/

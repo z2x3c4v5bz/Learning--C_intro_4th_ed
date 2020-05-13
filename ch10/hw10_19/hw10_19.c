@@ -24,3 +24,12 @@ int length(char *ptr)
 	
 	return i;
 }
+
+
+/*
+
+Write something here: I love YOU
+You entered 10 characters here.
+Press any key to continue . . .
+
+*/

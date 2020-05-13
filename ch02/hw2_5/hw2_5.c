@@ -10,3 +10,11 @@ int main(void)
 	system("pause");
 	return 0;
  }
+
+
+/*
+
+ 5 + 12 = 17
+Press any key to continue . . .
+
+*/

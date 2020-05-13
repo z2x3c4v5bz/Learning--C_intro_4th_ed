@@ -12,3 +12,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Average(12.6,4.2)=8.4
+Press any key to continue . . .
+
+*/

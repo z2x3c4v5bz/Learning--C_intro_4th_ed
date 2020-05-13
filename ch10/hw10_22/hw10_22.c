@@ -11,3 +11,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Time is money
+Have a good time
+Press any key to continue . . .
+
+*/

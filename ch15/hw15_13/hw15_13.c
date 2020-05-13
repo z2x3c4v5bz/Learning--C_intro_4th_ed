@@ -38,3 +38,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入性別(0:女;1:男) : 0
+輸入婚姻狀況(0:未婚;1:已婚) : 1
+輸入年齡 : 28
+性別 : 女,已婚,28歲
+sizeof(tom)=4
+Press any key to continue . . .
+
+*/

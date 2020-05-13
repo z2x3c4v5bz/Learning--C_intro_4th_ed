@@ -20,3 +20,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+*ptr+0=12
+*ptr+1=35
+Press any key to continue . . .
+
+*/

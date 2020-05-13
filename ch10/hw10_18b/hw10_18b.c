@@ -15,3 +15,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Number of lowercases in *ptr is 15
+Press any key to continue . . .
+
+*/

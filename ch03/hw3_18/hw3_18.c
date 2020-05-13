@@ -13,3 +13,14 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+num1(before)= 123.389999
+num2(before)= 380000.000000
+num1(after)= 123
+num2(after)= 380000
+Press any key to continue . . .
+
+*/

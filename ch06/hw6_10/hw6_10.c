@@ -23,3 +23,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+分別輸入x及y座標(x,y):0,0
+不屬於任何象限。
+Press any key to continue . . .
+
+*/

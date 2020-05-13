@@ -15,3 +15,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1~100間能同時被3與8整除的數之總合為: 240
+Press any key to continue . . .
+
+*/

@@ -21,3 +21,15 @@ void count(int *i)
 {
 	*i+=1;
 }
+
+
+/*
+
+呼叫count1次，num=1
+呼叫count2次，num=2
+呼叫count3次，num=3
+呼叫count4次，num=4
+呼叫count5次，num=5
+Press any key to continue . . .
+
+*/

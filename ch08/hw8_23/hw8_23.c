@@ -22,3 +22,12 @@ int fun(int n)
 	else
 		return 2*fun(n-1)-5;
 }
+
+
+/*
+
+Suppose a function f(n)=2f(n-1)-5 and f(0)=3, f(5)=?
+f(5)=-59
+Press any key to continue . . .
+
+*/

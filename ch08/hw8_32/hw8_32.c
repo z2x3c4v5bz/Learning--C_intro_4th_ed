@@ -13,3 +13,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+5^3=125
+2.2^3=10.648000
+Press any key to continue . . .
+
+*/

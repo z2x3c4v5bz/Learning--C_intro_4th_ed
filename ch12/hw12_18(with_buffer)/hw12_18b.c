@@ -1,4 +1,4 @@
-/* hw12_18a(with_buffer) */
+/* hw12_18b(with_buffer) */
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
@@ -7,7 +7,7 @@ int main(void)
 	int i;
 	int arr[]={11326,4445,15589,23740,76840};
 	
-	fptr=fopen("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_18(with_buffer)\\hw12_18.txt","w");
+	fptr=fopen("hw12_18.bin","wb");
 	
 	if(fptr!=NULL)
 	{
@@ -28,3 +28,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+數字為: 11326  4445 15589 23740 76840
+檔案寫入完成!!
+Press any key to continue . . .
+
+*/

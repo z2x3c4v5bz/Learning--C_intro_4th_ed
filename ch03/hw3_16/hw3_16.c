@@ -11,3 +11,13 @@ int main(void)
 	system("pause");
 	return 0;
  }
+
+
+/*
+
+sizeof(unsigned int) = 4
+sizeof(double) = 8
+sizeof(unsigned short int) = 2
+Press any key to continue . . .
+
+*/

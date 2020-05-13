@@ -18,3 +18,16 @@ int main (void)
 	
 	return 0;
 }
+
+
+/*
+
+輸入一個字元: a
+此字元是英文字母。
+Press any key to continue . . .
+
+輸入一個字元: 5
+此字元是數字。
+Press any key to continue . . .
+
+*/

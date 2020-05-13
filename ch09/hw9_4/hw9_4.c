@@ -20,3 +20,16 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入第1個整數 : 2
+輸入第2個整數 : 4
+輸入第3個整數 : 6
+arr[0]=2
+arr[1]=4
+arr[2]=6
+Press any key to continue . . .
+
+*/

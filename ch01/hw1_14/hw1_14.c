@@ -10,3 +10,12 @@ int main(void)
 	system("pause");
 	return 0;
  } 
+
+
+/*
+
+我愛C語言
+這是我的第一個C語言程式
+Press any key to continue . . .
+
+*/

@@ -12,3 +12,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+6數值比較大。
+Press any key to continue . . .
+
+*/

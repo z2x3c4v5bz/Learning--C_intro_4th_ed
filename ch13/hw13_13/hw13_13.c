@@ -1,8 +1,8 @@
 /* hw13_13 */
 #include <stdio.h>
 #include <stdlib.h>
-#include "C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch13\\hw13_13\\volume2.h"
-#include "C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch13\\hw13_13\\area2.h"
+#include "volume2.h"
+#include "area2.h"
 int main(void)
 {
 	printf("CIRCLE(1.0)=%5.2f\n",CIRCLE(1.0));
@@ -11,3 +11,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+CIRCLE(1.0)= 3.14
+SPHERE(1.0)= 4.19
+Press any key to continue . . .
+
+*/

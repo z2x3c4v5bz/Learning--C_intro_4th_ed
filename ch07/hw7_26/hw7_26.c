@@ -17,3 +17,15 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+1
+12
+123
+1234
+12345
+Press any key to continue . . .
+
+*/

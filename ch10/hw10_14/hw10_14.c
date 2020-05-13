@@ -23,3 +23,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+arr[5]={34,76,33,42,76}
+arr[5]+10={44,86,43,52,86}
+Press any key to continue . . .
+
+*/

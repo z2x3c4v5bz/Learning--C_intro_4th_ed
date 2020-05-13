@@ -24,3 +24,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+ 1/24/2018  14:46:13.00
+sizeof(now)=32
+Press any key to continue . . .
+
+*/

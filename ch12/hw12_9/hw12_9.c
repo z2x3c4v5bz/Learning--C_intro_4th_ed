@@ -10,8 +10,8 @@ int main(void)
 	char buffer[SIZE];
 	int f1,f2,bytes;
 	
-	f1=open("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_9\\welcome.txt",O_RDONLY|O_TEXT);
-	f2=creat("C:\\Users\\Documents\\C語言教學手冊_第四版\\習題練習\\ch12\\hw12_9\\output2.txt",S_IWRITE);
+	f1=open("welcome.txt",O_RDONLY|O_TEXT);
+	f2=creat("output2.txt",S_IWRITE);
 	
 	if((f1!=-1)&&(f2!=-1))
 	{
@@ -30,3 +30,11 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+檔案拷貝完成!!
+Press any key to continue . . .
+
+*/

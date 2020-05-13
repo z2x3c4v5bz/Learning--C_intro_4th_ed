@@ -17,3 +17,12 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+輸入身高及體重(整數):150 70
+不會過重。
+Press any key to continue . . .
+
+*/

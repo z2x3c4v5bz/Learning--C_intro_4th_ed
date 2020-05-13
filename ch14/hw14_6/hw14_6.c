@@ -36,3 +36,21 @@ int main(void)
 	system("pause");
 	return 0;
 }
+
+
+/*
+
+Number of student: 3
+name for student 1: Tom
+score for student 1: 50
+name for student 2: Catherine
+score for student 2: 95
+name for student 3: Katherine
+score for student 3: 99
+Tom: score=50
+Catherine: score=95
+Katherine: score=99
+Average = 81.33
+Press any key to continue . . .
+
+*/
