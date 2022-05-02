@@ -80,16 +80,257 @@
     - [Question 5-15](#question-5-15)
     - [Question 5-16](#question-5-16)
   - [Chapter 06 -- 選擇性敘述](#chapter-06----選擇性敘述)
+    - [Question 6-1](#question-6-1)
+    - [Question 6-2](#question-6-2)
+    - [Question 6-3](#question-6-3)
+    - [Question 6-4](#question-6-4)
+    - [Question 6-5](#question-6-5)
+    - [Question 6-6](#question-6-6)
+    - [Question 6-7](#question-6-7)
+    - [Question 6-8](#question-6-8)
+    - [Question 6-9](#question-6-9)
+    - [Question 6-10](#question-6-10)
+    - [Question 6-11](#question-6-11)
+    - [Question 6-12](#question-6-12)
+    - [Question 6-13](#question-6-13)
+    - [Question 6-14](#question-6-14)
+    - [Question 6-15](#question-6-15)
+    - [Question 6-16](#question-6-16)
+    - [Question 6-17](#question-6-17)
+    - [Question 6-18](#question-6-18)
+    - [Question 6-19](#question-6-19)
+    - [Question 6-20](#question-6-20)
+    - [Question 6-21](#question-6-21)
+    - [Question 6-22](#question-6-22)
+    - [Question 6-23](#question-6-23)
+    - [Question 6-24](#question-6-24)
+    - [Question 6-25](#question-6-25)
+    - [Question 6-26](#question-6-26)
   - [Chapter 07 -- 迴圈](#chapter-07----迴圈)
+    - [Question 7-3](#question-7-3)
+    - [Question 7-4](#question-7-4)
+    - [Question 7-5](#question-7-5)
+    - [Question 7-6](#question-7-6)
+    - [Question 7-7](#question-7-7)
+    - [Question 7-8](#question-7-8)
+    - [Question 7-9](#question-7-9)
+    - [Question 7-10](#question-7-10)
+    - [Question 7-11](#question-7-11)
+    - [Question 7-12](#question-7-12)
+    - [Question 7-13](#question-7-13)
+    - [Question 7-14](#question-7-14)
+    - [Question 7-16](#question-7-16)
+    - [Question 7-17](#question-7-17)
+    - [Question 7-18](#question-7-18)
+    - [Question 7-19](#question-7-19)
+    - [Question 7-20](#question-7-20)
+    - [Question 7-21](#question-7-21)
+    - [Question 7-22](#question-7-22)
+    - [Question 7-23](#question-7-23)
+    - [Question 7-24](#question-7-24)
+    - [Question 7-25](#question-7-25)
+    - [Question 7-26](#question-7-26)
+    - [Question 7-27](#question-7-27)
+    - [Question 7-28](#question-7-28)
+    - [Question 7-29](#question-7-29)
+    - [Question 7-30](#question-7-30)
+    - [Question 7-31](#question-7-31)
+    - [Question 7-32](#question-7-32)
+    - [Question 7-33](#question-7-33)
+    - [Question 7-34](#question-7-34)
   - [Chapter 08 -- 函數](#chapter-08----函數)
+    - [Question 8-1](#question-8-1)
+    - [Question 8-2](#question-8-2)
+    - [Question 8-3](#question-8-3)
+    - [Question 8-4](#question-8-4)
+    - [Question 8-5](#question-8-5)
+    - [Question 8-6](#question-8-6)
+    - [Question 8-7](#question-8-7)
+    - [Question 8-8](#question-8-8)
+    - [Question 8-9](#question-8-9)
+    - [Question 8-10](#question-8-10)
+    - [Question 8-11](#question-8-11)
+    - [Question 8-12](#question-8-12)
+    - [Question 8-13](#question-8-13)
+    - [Question 8-14](#question-8-14)
+    - [Question 8-15](#question-8-15)
+    - [Question 8-16](#question-8-16)
+    - [Question 8-17](#question-8-17)
+    - [Question 8-18](#question-8-18)
+    - [Question 8-19](#question-8-19)
+    - [Question 8-20](#question-8-20)
+    - [Question 8-21](#question-8-21)
+    - [Question 8-22](#question-8-22)
+    - [Question 8-23](#question-8-23)
+    - [Question 8-24](#question-8-24)
+    - [Question 8-25](#question-8-25)
+    - [Question 8-26](#question-8-26)
+    - [Question 8-27](#question-8-27)
+    - [Question 8-28](#question-8-28)
+    - [Question 8-29](#question-8-29)
+    - [Question 8-30](#question-8-30)
+    - [Question 8-31](#question-8-31)
+    - [Question 8-32](#question-8-32)
+    - [Question 8-33](#question-8-33)
+    - [Question 8-34](#question-8-34)
+    - [Question 8-35](#question-8-35)
+    - [Question 8-36](#question-8-36)
   - [Chapter 09 -- 陣列與字串](#chapter-09----陣列與字串)
+    - [Question 9-1](#question-9-1)
+    - [Question 9-2](#question-9-2)
+    - [Question 9-3](#question-9-3)
+    - [Question 9-4](#question-9-4)
+    - [Question 9-6](#question-9-6)
+    - [Question 9-7](#question-9-7)
+    - [Question 9-8](#question-9-8)
+    - [Question 9-9](#question-9-9)
+    - [Question 9-10](#question-9-10)
+    - [Question 9-11](#question-9-11)
+    - [Question 9-12](#question-9-12)
+    - [Question 9-13](#question-9-13)
+    - [Question 9-14](#question-9-14)
+    - [Question 9-15](#question-9-15)
+    - [Question 9-16](#question-9-16)
+    - [Question 9-17](#question-9-17)
+    - [Question 9-18](#question-9-18)
+    - [Question 9-19](#question-9-19)
+    - [Question 9-20](#question-9-20)
+    - [Question 9-21](#question-9-21)
+    - [Question 9-22](#question-9-22)
+    - [Question 9-23](#question-9-23)
+    - [Question 9-24](#question-9-24)
+    - [Question 9-25](#question-9-25)
+    - [Question 9-26](#question-9-26)
+    - [Question 9-27](#question-9-27)
+    - [Question 9-28](#question-9-28)
+    - [Question 9-29](#question-9-29)
+    - [Question 9-30](#question-9-30)
+    - [Question 9-31](#question-9-31)
   - [Chapter 10 -- 指標](#chapter-10----指標)
+    - [Question 10-2](#question-10-2)
+    - [Question 10-3](#question-10-3)
+    - [Question 10-4](#question-10-4)
+    - [Question 10-5](#question-10-5)
+    - [Question 10-6](#question-10-6)
+    - [Question 10-7](#question-10-7)
+    - [Question 10-9](#question-10-9)
+    - [Question 10-10](#question-10-10)
+    - [Question 10-11](#question-10-11)
+    - [Question 10-12](#question-10-12)
+    - [Question 10-13](#question-10-13)
+    - [Question 10-14](#question-10-14)
+    - [Question 10-15](#question-10-15)
+    - [Question 10-16](#question-10-16)
+    - [Question 10-17](#question-10-17)
+    - [Question 10-18](#question-10-18)
+    - [Question 10-19](#question-10-19)
+    - [Question 10-20](#question-10-20)
+    - [Question 10-21](#question-10-21)
+    - [Question 10-22](#question-10-22)
+    - [Question 10-23](#question-10-23)
+    - [Question 10-24](#question-10-24)
+    - [Question 10-25](#question-10-25)
   - [Chapter 11 -- 結構與其他資料型態](#chapter-11----結構與其他資料型態)
+    - [Question 11-1](#question-11-1)
+    - [Question 11-2](#question-11-2)
+    - [Question 11-3](#question-11-3)
+    - [Question 11-4](#question-11-4)
+    - [Question 11-5](#question-11-5)
+    - [Question 11-6](#question-11-6)
+    - [Question 11-7](#question-11-7)
+    - [Question 11-8](#question-11-8)
+    - [Question 11-9](#question-11-9)
+    - [Question 11-10](#question-11-10)
+    - [Question 11-11](#question-11-11)
+    - [Question 11-12](#question-11-12)
+    - [Question 11-13](#question-11-13)
+    - [Question 11-14](#question-11-14)
+    - [Question 11-15](#question-11-15)
+    - [Question 11-16](#question-11-16)
+    - [Question 11-17](#question-11-17)
+    - [Question 11-18](#question-11-18)
+    - [Question 11-19](#question-11-19)
+    - [Question 11-20](#question-11-20)
+    - [Question 11-22](#question-11-22)
   - [Chapter 12 -- 檔案處理](#chapter-12----檔案處理)
+    - [Question 12-3](#question-12-3)
+    - [Question 12-4](#question-12-4)
+    - [Question 12-5](#question-12-5)
+    - [Question 12-6](#question-12-6)
+    - [Question 12-7](#question-12-7)
+    - [Question 12-8](#question-12-8)
+    - [Question 12-9](#question-12-9)
+    - [Question 12-10](#question-12-10)
+    - [Question 12-11](#question-12-11)
+    - [Question 12-12](#question-12-12)
+    - [Question 12-13](#question-12-13)
+    - [Question 12-14](#question-12-14)
+    - [Question 12-15](#question-12-15)
+    - [Question 12-16](#question-12-16)
+    - [Question 12-17](#question-12-17)
+    - [Question 12-18](#question-12-18)
   - [Chapter 13 -- 大型程式的發展](#chapter-13----大型程式的發展)
+    - [Question 13-4](#question-13-4)
+    - [Question 13-5](#question-13-5)
+    - [Question 13-6](#question-13-6)
+    - [Question 13-7](#question-13-7)
+    - [Question 13-8](#question-13-8)
+    - [Question 13-9](#question-13-9)
+    - [Question 13-10](#question-13-10)
+    - [Question 13-11](#question-13-11)
+    - [Question 13-13](#question-13-13)
+    - [Question 13-14](#question-13-14)
+    - [Question 13-15](#question-13-15)
+    - [Question 13-16](#question-13-16)
   - [Chapter 14 -- 動態記憶體配置與鏈結串列](#chapter-14----動態記憶體配置與鏈結串列)
+    - [Question 14-1](#question-14-1)
+    - [Question 14-2](#question-14-2)
+    - [Question 14-3](#question-14-3)
+    - [Question 14-4](#question-14-4)
+    - [Question 14-5](#question-14-5)
+    - [Question 14-6](#question-14-6)
+    - [Question 14-7](#question-14-7)
+    - [Question 14-8](#question-14-8)
+    - [Question 14-9](#question-14-9)
+    - [Question 14-10](#question-14-10)
+    - [Question 14-11](#question-14-11)
+    - [Question 14-12](#question-14-12)
+    - [Question 14-13](#question-14-13)
+    - [Question 14-14](#question-14-14)
+    - [Question 14-15](#question-14-15)
+    - [Question 14-16](#question-14-16)
+    - [Question 14-17](#question-14-17)
+    - [Question 14-18](#question-14-18)
+    - [Question 14-19](#question-14-19)
+    - [Question 14-20](#question-14-20)
+    - [Question 14-21](#question-14-21)
+    - [Question 14-22](#question-14-22)
   - [Chapter 15 -- 位元處理](#chapter-15----位元處理)
+    - [Question 15-6](#question-15-6)
+    - [Question 15-8](#question-15-8)
+    - [Question 15-9](#question-15-9)
+    - [Question 15-10](#question-15-10)
+    - [Question 15-11](#question-15-11)
+    - [Question 15-12](#question-15-12)
+    - [Question 15-13](#question-15-13)
+    - [Question 15-15](#question-15-15)
+    - [Question 15-16](#question-15-16)
   - [Chapter 16 -- 邁向 C++ 之路](#chapter-16----邁向-c-之路)
+    - [Question 16-3](#question-16-3)
+    - [Question 16-4](#question-16-4)
+    - [Question 16-5](#question-16-5)
+    - [Question 16-6](#question-16-6)
+    - [Question 16-7](#question-16-7)
+    - [Question 16-8](#question-16-8)
+    - [Question 16-9](#question-16-9)
+    - [Question 16-10](#question-16-10)
+    - [Question 16-11](#question-16-11)
+    - [Question 16-12](#question-16-12)
+    - [Question 16-13](#question-16-13)
+    - [Question 16-14](#question-16-14)
+    - [Question 16-15](#question-16-15)
+    - [Question 16-17](#question-16-17)
+    - [Question 16-18](#question-16-18)
 
 ## Chapter 01 -- 認識 C 語言 ##
 
@@ -570,8 +811,59 @@
 >- 更好用的多重選擇--switch 敘述
 >- 使用 goto 敘述
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 6-1](ch06/hw6_1/hw6_1.c) ###
+
+>試撰寫一程式，可由鍵盤讀入一個字元。若此字元是數字（即數字 0～9），則印出 "此字元是數字" 字串；若此字元是英文大小寫字母（即 a～z, A～Z），則印出 "此字元是英文字母" 字串。
+
+### [Question 6-2](ch06/hw6_2/hw6_2.c) ###
+
+### [Question 6-3](ch06/hw6_3/hw6_3.c) ###
+
+### [Question 6-4](ch06/hw6_4/hw6_4.c) ###
+
+### [Question 6-5](ch06/hw6_5/hw6_5.c) ###
+
+### [Question 6-6](ch06/hw6_6/hw6_6.c) ###
+
+### [Question 6-7](ch06/hw6_7/hw6_7.c) ###
+
+### [Question 6-8](ch06/hw6_8/hw6_8.c) ###
+
+### [Question 6-9](ch06/hw6_9/hw6_9.c) ###
+
+### [Question 6-10](ch06/hw6_10/hw6_10.c) ###
+
+### [Question 6-11](ch06/hw6_11/hw6_11.c) ###
+
+### [Question 6-12](ch06/hw6_12/hw6_12.c) ###
+
+### [Question 6-13](ch06/hw6_13/hw6_13.c) ###
+
+### [Question 6-14](ch06/hw6_14/hw6_14.c) ###
+
+### [Question 6-15](ch06/hw6_15/hw6_15.c) ###
+
+### [Question 6-16](ch06/hw6_16/hw6_16.c) ###
+
+### [Question 6-17](ch06/hw6_17/hw6_17.c) ###
+
+### [Question 6-18](ch06/hw6_18/hw6_18.c) ###
+
+### [Question 6-19](ch06/hw6_19/hw6_19.c) ###
+
+### [Question 6-20](ch06/hw6_20/hw6_20.c) ###
+
+### [Question 6-21](ch06/hw6_21/hw6_21.c) ###
+
+### [Question 6-22](ch06/hw6_22/hw6_22.c) ###
+
+### [Question 6-23](ch06/hw6_23/hw6_23.c) ###
+
+### [Question 6-24](ch06/hw6_24/hw6_24.c) ###
+
+### [Question 6-25](ch06/hw6_25/hw6_25.c) ###
+
+### [Question 6-26](ch06/hw6_26/hw6_26.c) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -586,8 +878,74 @@
 >- 巢狀迴圈
 >- 迴圈的跳離
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 7-3](ch07/hw7_3/hw7_3.c) ###
+
+### [Question 7-4](ch07/hw7_4/hw7_4.c) ###
+
+### [Question 7-5](ch07/hw7_5/hw7_5.c) ###
+
+### [Question 7-6](ch07/hw7_6/hw7_6.c) ###
+
+### [Question 7-7](ch07/hw7_7/hw7_7.c) ###
+
+### [Question 7-8](ch07/hw7_8/hw7_8.c) ###
+
+### [Question 7-9](ch07/hw7_9/hw7_9.c) ###
+
+### [Question 7-10](ch07/hw7_10/hw7_10.c) ###
+
+### [Question 7-11](ch07/hw7_11/hw7_11.c) ###
+
+### [Question 7-12](ch07/hw7_12/hw7_12.c) ###
+
+### [Question 7-13](ch07/hw7_13/hw7_13.c) ###
+
+### [Question 7-14](ch07/hw7_14/hw7_14.c) ###
+
+### [Question 7-16](ch07/hw7_16/hw7_16.c) ###
+
+### [Question 7-17](ch07/hw7_17/hw7_17.c) ###
+
+### Question 7-18 ###
+
+- [Question 7-18a](ch07/hw7_18a/hw7_18a.c)
+
+### [Question 7-19](ch07/hw7_19/hw7_19.c) ###
+
+### [Question 7-20](ch07/hw7_20/hw7_20.c) ###
+
+### [Question 7-21](ch07/hw7_21/hw7_21.c) ###
+
+### [Question 7-22](ch07/hw7_22/hw7_22.c) ###
+
+### Question 7-23 ###
+
+- [Question 7-23a](ch07/hw7_23a/hw7_23a.c)
+- [Question 7-23b](ch07/hw7_23b/hw7_23b.c)
+
+### Question 7-24 ###
+
+- [Question 7-24a](ch07/hw7_24a/hw7_24a.c)
+
+### [Question 7-25](ch07/hw7_25/hw7_25.c) ###
+
+### [Question 7-26](ch07/hw7_26/hw7_26.c) ###
+
+### [Question 7-27](ch07/hw7_27/hw7_27.c) ###
+
+### [Question 7-28](ch07/hw7_28/hw7_28.c) ###
+
+### [Question 7-29](ch07/hw7_29/hw7_29.c) ###
+
+### [Question 7-30](ch07/hw7_30/hw7_30.c) ###
+
+### [Question 7-31](ch07/hw7_31/hw7_31.c) ###
+
+### [Question 7-32](ch07/hw7_32/hw7_32.c) ###
+
+### [Question 7-33](ch07/hw7_33/hw7_33.c) ###
+
+### [Question 7-34](ch07/hw7_34/hw7_34.c) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -602,8 +960,98 @@
 >- 前置處理器--#define
 >- 再來看看 #include 前置處理器
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 8-1](ch08/hw8_1/hw8_1.c) ###
+
+### [Question 8-2](ch08/hw8_2/hw8_2.c) ###
+
+### [Question 8-3](ch08/hw8_3/hw8_3.c) ###
+
+### [Question 8-4](ch08/hw8_4/hw8_4.c) ###
+
+### [Question 8-5](ch08/hw8_5/hw8_5.c) ###
+
+### [Question 8-6](ch08/hw8_6/hw8_6.c) ###
+
+### [Question 8-7](ch08/hw8_7/hw8_7.c) ###
+
+### [Question 8-8](ch08/hw8_8/hw8_8.c) ###
+
+### [Question 8-9](ch08/hw8_9/hw8_9.c) ###
+
+### [Question 8-10](ch08/hw8_10/hw8_10.c) ###
+
+### Question 8-11 ###
+
+- [Question 8-11a](ch08/hw8_11a/hw8_11a.c)
+- [Question 8-11b](ch08/hw8_11b/hw8_11b.c)
+- [Question 8-11c](ch08/hw8_11c/hw8_11c.c)
+
+### Question 8-12 ###
+
+- [Question 8-12a](ch08/hw8_12a/hw8_12a.c)
+- [Question 8-12b](ch08/hw8_12b/hw8_12b.c)
+
+### Question 8-13 ###
+
+- [Question 8-13a](ch08/hw8_13a/hw8_13a.c)
+- [Question 8-13b](ch08/hw8_13b/hw8_13b.c)
+
+### Question 8-14 ###
+
+- [Question 8-14a](ch08/hw8_14a/hw8_14a.c)
+- [Question 8-14b](ch08/hw8_14b/hw8_14b.c)
+
+### Question 8-15 ###
+
+- [Question 8-15a](ch08/hw8_15a/hw8_15a.c)
+- [Question 8-15b](ch08/hw8_15b/hw8_15b.c)
+
+### [Question 8-16](ch08/hw8_16/hw8_16.c) ###
+
+### [Question 8-17](ch08/hw8_17/hw8_17.c) ###
+
+### Question 8-18 ###
+
+- [Question 8-18a](ch08/hw8_18a/hw8_18a.c)
+
+### [Question 8-19](ch08/hw8_19/hw8_19.c) ###
+
+### [Question 8-20](ch08/hw8_20/hw8_20.c) ###
+
+### [Question 8-21](ch08/hw8_21/hw8_21.c) ###
+
+### [Question 8-22](ch08/hw8_22/hw8_22.c) ###
+
+### [Question 8-23](ch08/hw8_23/hw8_23.c) ###
+
+### [Question 8-24](ch08/hw8_24/hw8_24.c) ###
+
+### [Question 8-25](ch08/hw8_25/hw8_25.c) ###
+
+### [Question 8-26](ch08/hw8_26/hw8_26.c) ###
+
+### [Question 8-27](ch08/hw8_27/hw8_27.c) ###
+
+### [Question 8-28](ch08/hw8_28/hw8_28.c) ###
+
+### [Question 8-29](ch08/hw8_29/hw8_29.c) ###
+
+### [Question 8-30](ch08/hw8_30/hw8_30.c) ###
+
+### [Question 8-31](ch08/hw8_31/hw8_31.c) ###
+
+### [Question 8-32](ch08/hw8_32/hw8_32.c) ###
+
+### [Question 8-33](ch08/hw8_33/hw8_33.c) ###
+
+### [Question 8-34](ch08/hw8_34/hw8_34.c) ###
+
+### [Question 8-35](ch08/hw8_35/hw8_35.c) ###
+
+### Question 8-36 ###
+
+- [Question 8-36a](ch08/hw8_36a/hw8_36a.c)
+- [Question 8-36b](ch08/hw8_36b/hw8_36b.c)
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -616,8 +1064,68 @@
 >- 字串的輸入與輸出函數
 >- 字串陣列
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 9-1](ch09/hw9_1/hw9_1.c) ###
+
+### [Question 9-2](ch09/hw9_2/hw9_2.c) ###
+
+### [Question 9-3](ch09/hw9_3/hw9_3.c) ###
+
+### [Question 9-4](ch09/hw9_4/hw9_4.c) ###
+
+### Question 9-6 ###
+
+- [Question 9-6a](ch09/hw9_6a/hw9_6a.c)
+- [Question 9-6b](ch09/hw9_6b/hw9_6b.c)
+
+### [Question 9-7](ch09/hw9_7/hw9_7.c) ###
+
+### [Question 9-8](ch09/hw9_8/hw9_8.c) ###
+
+### [Question 9-9](ch09/hw9_9/hw9_9.c) ###
+
+### [Question 9-10](ch09/hw9_10/hw9_10.c) ###
+
+### [Question 9-11](ch09/hw9_11/hw9_11.c) ###
+
+### [Question 9-12](ch09/hw9_12/hw9_12.c) ###
+
+### [Question 9-13](ch09/hw9_13/hw9_13.c) ###
+
+### [Question 9-14](ch09/hw9_14/hw9_14.c) ###
+
+### [Question 9-15](ch09/hw9_15/hw9_15.c) ###
+
+### [Question 9-16](ch09/hw9_16/hw9_16.c) ###
+
+### [Question 9-17](ch09/hw9_17/hw9_17.c) ###
+
+### [Question 9-18](ch09/hw9_18/hw9_18.c) ###
+
+### [Question 9-19](ch09/hw9_19/hw9_19.c) ###
+
+### [Question 9-20](ch09/hw9_20/hw9_20.c) ###
+
+### [Question 9-21](ch09/hw9_21/hw9_21.c) ###
+
+### [Question 9-22](ch09/hw9_22/hw9_22.c) ###
+
+### [Question 9-23](ch09/hw9_23/hw9_23.c) ###
+
+### [Question 9-24](ch09/hw9_24/hw9_24.c) ###
+
+### [Question 9-25](ch09/hw9_25/hw9_25.c) ###
+
+### [Question 9-26](ch09/hw9_26/hw9_26.c) ###
+
+### [Question 9-27](ch09/hw9_27/hw9_27.c) ###
+
+### [Question 9-28](ch09/hw9_28/hw9_28.c) ###
+
+### [Question 9-29](ch09/hw9_29/hw9_29.c) ###
+
+### [Question 9-30](ch09/hw9_30/hw9_30.c) ###
+
+### [Question 9-31](ch09/hw9_31/hw9_31.c) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -630,8 +1138,54 @@
 >- 指標與字串
 >- 指向指標的指標--雙重指標
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 10-2](ch10/hw10_2/hw10_2.c) ###
+
+### [Question 10-3](ch10/hw10_3/hw10_3.c) ###
+
+### [Question 10-4](ch10/hw10_4/hw10_4.c) ###
+
+### [Question 10-5](ch10/hw10_5/hw10_5.c) ###
+
+### [Question 10-6](ch10/hw10_6/hw10_6.c) ###
+
+### [Question 10-7](ch10/hw10_7/hw10_7.c) ###
+
+### [Question 10-9](ch10/hw10_9/hw10_9.c) ###
+
+### [Question 10-10](ch10/hw10_10/hw10_10.c) ###
+
+### [Question 10-11](ch10/hw10_11/hw10_11.c) ###
+
+### [Question 10-12](ch10/hw10_12/hw10_12.c) ###
+
+### [Question 10-13](ch10/hw10_13/hw10_13.c) ###
+
+### [Question 10-14](ch10/hw10_14/hw10_14.c) ###
+
+### [Question 10-15](ch10/hw10_15/hw10_15.c) ###
+
+### [Question 10-16](ch10/hw10_16/hw10_16.c) ###
+
+### [Question 10-17](ch10/hw10_17/hw10_17.c) ###
+
+### Question 10-18 ###
+
+- [Question 10-18a](ch10/hw10_18a/hw10_18a.c)
+- [Question 10-18b](ch10/hw10_18b/hw10_18b.c)
+
+### [Question 10-19](ch10/hw10_19/hw10_19.c) ###
+
+### [Question 10-20](ch10/hw10_20/hw10_20.c) ###
+
+### [Question 10-21](ch10/hw10_21/hw10_21.c) ###
+
+### [Question 10-22](ch10/hw10_22/hw10_22.c) ###
+
+### [Question 10-23](ch10/hw10_23/hw10_23.c) ###
+
+### [Question 10-24](ch10/hw10_24/hw10_24.c) ###
+
+### [Question 10-25](ch10/hw10_25/hw10_25.c) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -645,8 +1199,50 @@
 >- 列舉型態
 >- 使用自訂的型態--typedef
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 11-1](ch11/hw11_1/hw11_1.c) ###
+
+### [Question 11-2](ch11/hw11_2/hw11_2.c) ###
+
+### [Question 11-3](ch11/hw11_3/hw11_3.c) ###
+
+### [Question 11-4](ch11/hw11_4/hw11_4.c) ###
+
+### [Question 11-5](ch11/hw11_5/hw11_5.c) ###
+
+### [Question 11-6](ch11/hw11_6/hw11_6.c) ###
+
+### [Question 11-7](ch11/hw11_7/hw11_7.c) ###
+
+### [Question 11-8](ch11/hw11_8/hw11_8.c) ###
+
+### [Question 11-9](ch11/hw11_9/hw11_9.c) ###
+
+### [Question 11-10](ch11/hw11_10/hw11_10.c) ###
+
+### [Question 11-11](ch11/hw11_11/hw11_11.c) ###
+
+### [Question 11-12](ch11/hw11_12/hw11_12.c) ###
+
+### [Question 11-13](ch11/hw11_13/hw11_13.c) ###
+
+### [Question 11-14](ch11/hw11_14/hw11_14.c) ###
+
+### [Question 11-15](ch11/hw11_15/hw11_15.c) ###
+
+### [Question 11-16](ch11/hw11_16/hw11_16.c) ###
+
+### [Question 11-17](ch11/hw11_17/hw11_17.c) ###
+
+### Question 11-18 ###
+
+- [Question 11-18c](ch11/hw11_18c/hw11_18c.c)
+- [Question 11-18d](ch11/hw11_18d/hw11_18d.c)
+
+### [Question 11-19](ch11/hw11_19/hw11_19.c) ###
+
+### [Question 11-20](ch11/hw11_20/hw11_20.c) ###
+
+### [Question 11-22](ch11/hw11_22/hw11_22.c) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -657,8 +1253,53 @@
 >- 無緩衝區的檔案處理函數
 >- 二進位檔案的使用
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 12-3](ch12/hw12_3/hw12_3.c) ###
+
+### [Question 12-4](ch12/hw12_4/hw12_4.c) ###
+
+### [Question 12-5](ch12/hw12_5/hw12_5.c) ###
+
+### [Question 12-6](ch12/hw12_6/hw12_6.c) ###
+
+### [Question 12-7](ch12/hw12_7/hw12_7.c) ###
+
+### [Question 12-8](ch12/hw12_8/hw12_8.c) ###
+
+### [Question 12-9](ch12/hw12_9/hw12_9.c) ###
+
+### [Question 12-10](ch12/hw12_10/hw12_10.c) ###
+
+### Question 12-11 ###
+
+- [Question 12-11a](ch12/hw12_11/hw12_11a.c)
+- [Question 12-11b](ch12/hw12_11/hw12_11b.c)
+
+### [Question 12-12](ch12/hw12_12/hw12_12.c) ###
+
+### [Question 12-13](ch12/hw12_13/hw12_13.c) ###
+
+### [Question 12-14](ch12/hw12_14/hw12_14.c) ###
+
+### [Question 12-15](ch12/hw12_15/hw12_15.c) ###
+
+### Question 12-16 ###
+
+- [Question 12-16a (with buffer)](ch12/hw12_16(with_buffer)/hw12_16a.c)
+- [Question 12-16b (with buffer)](ch12/hw12_16(with_buffer)/hw12_16b.c)
+- [Question 12-16a (without buffer)](ch12/hw12_16(without_buffer)/hw12_16a.c)
+- [Question 12-16b (without buffer)](ch12/hw12_16(without_buffer)/hw12_16b.c)
+
+### Question 12-17 ###
+
+- [Question 12-17a](ch12/hw12_17/hw12_17a.c)
+- [Question 12-17b](ch12/hw12_17/hw12_17b.c)
+
+### Question 12-18 ###
+
+- [Question 12-18a (with buffer)](ch12/hw12_18(with_buffer)/hw12_18a.c)
+- [Question 12-18b (with buffer)](ch12/hw12_18(with_buffer)/hw12_18b.c)
+- [Question 12-18a (without buffer)](ch12/hw12_18(without_buffer)/hw12_18a.c)
+- [Question 12-18b (without buffer)](ch12/hw12_18(without_buffer)/hw12_18b.c)
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -669,8 +1310,29 @@
 >- 條件式編譯
 >- 命令列引數的使用
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 13-4](ch13/hw13_4/hw13_4.c) ###
+
+### [Question 13-5](ch13/hw13_5/hw13_5.c) ###
+
+### [Question 13-6](ch13/hw13_6/hw13_6.c) ###
+
+### [Question 13-7](ch13/hw13_7/hw13_7.c) ###
+
+### [Question 13-8](ch13/hw13_8/hw13_8.c) ###
+
+### [Question 13-9](ch13/hw13_9/hw13_9.c) ###
+
+### [Question 13-10](ch13/hw13_10/hw13_10.c) ###
+
+### [Question 13-11](ch13/hw13_11/hw13_11.c) ###
+
+### [Question 13-13](ch13/hw13_13/hw13_13.c) ###
+
+### [Question 13-14](ch13/hw13_14/hw13_14.c) ###
+
+### [Question 13-15](ch13/hw13_15/hw13_15.c) ###
+
+### [Question 13-16](ch13/hw13_16/hw13_16.c) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -680,8 +1342,49 @@
 >- 鏈結串列
 >- 鏈結串列的操作
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 14-1](ch14/hw14_1/hw14_1.c) ###
+
+### [Question 14-2](ch14/hw14_2/hw14_2.c) ###
+
+### [Question 14-3](ch14/hw14_3/hw14_3.c) ###
+
+### [Question 14-4](ch14/hw14_4/hw14_4.c) ###
+
+### [Question 14-5](ch14/hw14_5/hw14_5.c) ###
+
+### [Question 14-6](ch14/hw14_6/hw14_6.c) ###
+
+### [Question 14-7](ch14/hw14_7/hw14_7.c) ###
+
+### [Question 14-8](ch14/hw14_8/hw14_8.c) ###
+
+### [Question 14-9](ch14/hw14_9/hw14_9.c) ###
+
+### [Question 14-10](ch14/hw14_10/hw14_10.c) ###
+
+### [Question 14-11](ch14/hw14_11/hw14_11.c) ###
+
+### [Question 14-12](ch14/hw14_12/hw14_12.c) ###
+
+### [Question 14-13](ch14/hw14_13/hw14_13.c) ###
+
+### [Question 14-14](ch14/hw14_14/hw14_14.c) ###
+
+### [Question 14-15](ch14/hw14_15/hw14_15.c) ###
+
+### [Question 14-16](ch14/hw14_16/hw14_16.c) ###
+
+### [Question 14-17](ch14/hw14_17/hw14_17.c) ###
+
+### [Question 14-18](ch14/hw14_18/hw14_18.c) ###
+
+### [Question 14-19](ch14/hw14_19/hw14_19.c) ###
+
+### [Question 14-20](ch14/hw14_20/hw14_20.c) ###
+
+### [Question 14-21](ch14/hw14_21/hw14_21.c) ###
+
+### [Question 14-22](ch14/hw14_22/hw14_22.c) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -693,8 +1396,23 @@
 >- 位元運算子
 >- 位元欄位
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 15-6](ch15/hw15_6/hw15_6.c) ###
+
+### [Question 15-8](ch15/hw15_8/hw15_8.c) ###
+
+### [Question 15-9](ch15/hw15_9/hw15_9.c) ###
+
+### [Question 15-10](ch15/hw15_10/hw15_10.c) ###
+
+### [Question 15-11](ch15/hw15_11/hw15_11.c) ###
+
+### [Question 15-12](ch15/hw15_12/hw15_12.c) ###
+
+### [Question 15-13](ch15/hw15_13/hw15_13.c) ###
+
+### [Question 15-15](ch15/hw15_15/hw15_15.c) ###
+
+### [Question 15-16](ch15/hw15_16/hw15_16.c) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -707,7 +1425,34 @@
 >- 公有成員與私有成員
 >- 建構元
 
-|  Number  | Question |
-|:--------:|:---------|
+### [Question 16-3](ch16/hw16_3/hw16_3.cpp) ###
+
+### [Question 16-4](ch16/hw16_4/hw16_4.cpp) ###
+
+### [Question 16-5](ch16/hw16_5/hw16_5.cpp) ###
+
+### [Question 16-6](ch16/hw16_6/hw16_6.cpp) ###
+
+### [Question 16-7](ch16/hw16_7/hw16_7.cpp) ###
+
+### [Question 16-8](ch16/hw16_8/hw16_8.cpp) ###
+
+### [Question 16-9](ch16/hw16_9/hw16_9.cpp) ###
+
+### [Question 16-10](ch16/hw16_10/hw16_10.cpp) ###
+
+### [Question 16-11](ch16/hw16_11/hw16_11.cpp) ###
+
+### [Question 16-12](ch16/hw16_12/hw16_12.cpp) ###
+
+### [Question 16-13](ch16/hw16_13/hw16_13.cpp) ###
+
+### [Question 16-14](ch16/hw16_14/hw16_14.cpp) ###
+
+### [Question 16-15](ch16/hw16_15/hw16_15.cpp) ###
+
+### [Question 16-17](ch16/hw16_17/hw16_17.cpp) ###
+
+### [Question 16-18](ch16/hw16_18/hw16_18.cpp) ###
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
