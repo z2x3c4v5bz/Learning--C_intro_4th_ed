@@ -29,7 +29,7 @@
 - 編譯與執行的過程
 - 本書的編排與慣例
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 2 章 -- C 語言基本概述](/ch02/)
 
@@ -39,7 +39,7 @@
 - 偵錯
 - 提高程式的可讀性
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 3 章 -- 基本資料型態](/ch03/)
 
@@ -48,7 +48,7 @@
 - 查詢常數、變數或資料型態所佔位元組
 - 資料型態的轉換
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 4 章 -- 格式化的輸出與輸入](/ch04/)
 
@@ -57,7 +57,7 @@
 - 使用 scanf() 函數應注意的事項
 - 輸出、輸入字元的函數
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 5 章 -- 運算子、運算式與敘述](/ch05/)
 
@@ -66,7 +66,7 @@
 - 運算式
 - 運算式的型態轉換
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 6 章 -- 選擇性敘述](/ch06/)
 
@@ -76,7 +76,7 @@
 - 更好用的多重選擇--switch 敘述
 - 使用 goto 敘述
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 7 章 -- 迴圈](/ch07/)
 
@@ -89,7 +89,7 @@
 - 巢狀迴圈
 - 迴圈的跳離
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 8 章 -- 函數](/ch08/)
 
@@ -102,7 +102,7 @@
 - 前置處理器--#define
 - 再來看看 #include 前置處理器
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 9 章 -- 陣列與字串](/ch09/)
 
@@ -113,7 +113,7 @@
 - 字串的輸入與輸出函數
 - 字串陣列
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 10 章 -- 指標](/ch10/)
 
@@ -124,7 +124,7 @@
 - 指標與字串
 - 指向指標的指標--雙重指標
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 11 章 -- 結構與其他資料型態](/ch11/)
 
@@ -136,7 +136,7 @@
 - 列舉型態
 - 使用自訂的型態--typedef
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 12 章 -- 檔案處理](/ch12/)
 
@@ -145,7 +145,7 @@
 - 無緩衝區的檔案處理函數
 - 二進位檔案的使用
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 13 章 -- 大型程式的發展](/ch13/)
 
@@ -154,7 +154,7 @@
 - 條件式編譯
 - 命令列引數的使用
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 14 章 -- 動態記憶體配置與鏈結串列](/ch14/)
 
@@ -162,7 +162,7 @@
 - 鏈結串列
 - 鏈結串列的操作
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 15 章 -- 位元處理](/ch15/)
 
@@ -172,7 +172,7 @@
 - 位元運算子
 - 位元欄位
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 16 章 -- 邁向 C++ 之路](/ch16/)
 
@@ -183,4 +183,4 @@
 - 公有成員與私有成員
 - 建構元
 
-[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#Table_of_Contents)
+[![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
