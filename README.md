@@ -49,13 +49,13 @@
 - 編譯與執行的過程
 - 本書的編排與慣例
 
-|  No  | Question |
-|:----:|:---------|
-| [13](ch01/hw1_13/hw1_13.c) | 試修改 prog1_1，使得它可以印出 "我愛C語言" 一行中文字。 |
-| [14](ch01/hw1_14/hw1_14.c) | 試修改 prog1_1，使得它可以印出 "我愛C語言" 及 "這是我的第一個C語言程式兩行中文字。 |
-| [15](ch01/hw1_15/hw1_15.c) | 試撰寫一程式，利用 printf() 函數印出下面的圖案（不須使用迴圈，每一列星號請用一個 printf() 函數來列印）： |
-| [16](ch01/hw1_16/hw1_16.c) | 試以 printf() 函數印出下面的圖案（不需使用迴圈，每一列星號請用一個 printf() 函數來列印）： |
-| [17](ch01/hw1_17/hw1_17.c) | 試撰寫一程式，利用 printf() 函數以星號和空白字元印出下面的圖案： |
+|  Number  | Question |
+|:--------:|:---------|
+| [1-13](ch01/hw1_13/hw1_13.c) | 試修改 prog1_1，使得它可以印出 "我愛C語言" 一行中文字。 |
+| [1-14](ch01/hw1_14/hw1_14.c) | 試修改 prog1_1，使得它可以印出 "我愛C語言" 及 "這是我的第一個C語言程式兩行中文字。 |
+| [1-15](ch01/hw1_15/hw1_15.c) | 試撰寫一程式，利用 printf() 函數印出下面的圖案（不須使用迴圈，每一列星號請用一個 printf() 函數來列印）： |
+| [1-16](ch01/hw1_16/hw1_16.c) | 試以 printf() 函數印出下面的圖案（不需使用迴圈，每一列星號請用一個 printf() 函數來列印）： |
+| [1-17](ch01/hw1_17/hw1_17.c) | 試撰寫一程式，利用 printf() 函數以星號和空白字元印出下面的圖案： |
 
 ※ 原諒我表格內不附圖示。
 
@@ -69,18 +69,18 @@
 - 偵錯
 - 提高程式的可讀性
 
-|  No  | Question |
-|:----:|:---------|
-| [3](ch02/hw2_3/hw2_3.c) | 試寫一個程式，可以列印出 "You are my best friend." 字串。 |
-| [4](ch02/hw2_4/hw2_4.c) | 試寫一個程式，可以印出如下的輸出結果：<br>`See you tomorrow.`<br>`Have a good night.` |
-| [5](ch02/hw2_5/hw2_5.c) | 試寫一程式，可計算 5+12 的值，並將結果列印出來。 |
-| [6](ch02/hw2_6/hw2_6.c) | 試寫一程式，可計算 6+7+24 的值，並將結果列印出來。 |
-| [7](ch02/hw2_7/hw2_7.c) | 試在您所使用的 C 語言開發環境裡找出 stdio.h 與 stdlib.h 這兩個檔案，請將它們的內容分別拷貝起來，然後分別貼在 hw2_1.c 裡的第 2 行與第 3 行的位置，取代掉<br>`#include <stdio.h>`<br>`#include <stdlib.h>`<br>這兩行，最後再編譯之。<br>以上的動作事實上就是編譯器所做的 "含括" 動作，只是現在是以手動方式將 stdio.h 與 stdlib.h 這兩個檔案含括進來罷了！如果執行本範例，您是否會得到與習題 1 相同的結果？ |
-| [8](ch02/hw2_8/hw2_8.c) | 試仿照習題 7 的步驟，將 prog2_2 重新編譯並執行之。 |
-| [10](ch02/hw2_10/hw2_10.c) | 試修改 prog2_2，使得第 9 行與第 10 行可以合併成一行來撰寫。
-| [11](ch02/hw2_11/hw2_11.c) | 試以 printf() 函數印出如下的圖案： |
-| [20](ch02/hw2_20/hw2_20.c) | 下面是一個簡單的 C 程式碼，但程式的編排方式並不易於閱讀。請重新編排它來提高程式的可讀性：<br>`01　　/* hwh2_20.c, 基本程式的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void){int i=5;`<br>`05　　printf("%d+%d=%d\n",i,i,i+i);`<br>`06　　system("pause");return 0; }` |
-| [21](ch02/hw2_21/hw2_21.c) | 接續習題 20，試將習題 20 重新編排後，再加上適當註解，使得程式碼更具可讀性。 |
+|  Number  | Question |
+|:--------:|:---------|
+| [2-3](ch02/hw2_3/hw2_3.c) | 試寫一個程式，可以列印出 "You are my best friend." 字串。 |
+| [2-4](ch02/hw2_4/hw2_4.c) | 試寫一個程式，可以印出如下的輸出結果：<br>`See you tomorrow.`<br>`Have a good night.` |
+| [2-5](ch02/hw2_5/hw2_5.c) | 試寫一程式，可計算 5+12 的值，並將結果列印出來。 |
+| [2-6](ch02/hw2_6/hw2_6.c) | 試寫一程式，可計算 6+7+24 的值，並將結果列印出來。 |
+| [2-7](ch02/hw2_7/hw2_7.c) | 試在您所使用的 C 語言開發環境裡找出 stdio.h 與 stdlib.h 這兩個檔案，請將它們的內容分別拷貝起來，然後分別貼在 hw2_1.c 裡的第 2 行與第 3 行的位置，取代掉<br>`#include <stdio.h>`<br>`#include <stdlib.h>`<br>這兩行，最後再編譯之。<br>以上的動作事實上就是編譯器所做的 "含括" 動作，只是現在是以手動方式將 stdio.h 與 stdlib.h 這兩個檔案含括進來罷了！如果執行本範例，您是否會得到與習題 1 相同的結果？ |
+| [2-8](ch02/hw2_8/hw2_8.c) | 試仿照習題 7 的步驟，將 prog2_2 重新編譯並執行之。 |
+| [2-10](ch02/hw2_10/hw2_10.c) | 試修改 prog2_2，使得第 9 行與第 10 行可以合併成一行來撰寫。
+| [2-11](ch02/hw2_11/hw2_11.c) | 試以 printf() 函數印出如下的圖案： |
+| [2-20](ch02/hw2_20/hw2_20.c) | 下面是一個簡單的 C 程式碼，但程式的編排方式並不易於閱讀。請重新編排它來提高程式的可讀性：<br>`01　　/* hwh2_20.c, 基本程式的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void){int i=5;`<br>`05　　printf("%d+%d=%d\n",i,i,i+i);`<br>`06　　system("pause");return 0; }` |
+| [2-21](ch02/hw2_21/hw2_21.c) | 接續習題 20，試將習題 20 重新編排後，再加上適當註解，使得程式碼更具可讀性。 |
 
 ※ 原諒我表格內不附圖示。
 
@@ -93,16 +93,16 @@
 - 查詢常數、變數或資料型態所佔位元組
 - 資料型態的轉換
 
-|  No  | Question |
-|:----:|:---------|
-| [2](ch03/hw3_2/hw3_2.c) | 試修改 prog3_1，使得第 9 行與第 10 行可分別印出 num1 與 num2 的平方值。第 9 行與第 10 行的輸出結果應如下所示：<br>`num1 的平方為 153760000`<br>`num2 的平方為 27.394756` |
-| [12](ch03/hw3_12/hw3_12.c) | 試寫一程式，利用設定字元變數 ch 為 ASCII 碼的方式讓電腦發出一個警告音（警告音的 ASCII 碼為 7）。 |
-| [14](ch03/hw3_14/hw3_14.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw13_14, 數字溢位的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  unsigned short num=80000;`<br>`07　　  printf("%d\n",num);`<br>`08　　`<br>`09　　  system("pause");`<br>`10　　  return 0;`<br>`11　　}`<br>(a) 試說明執行此程式的結果，為什麼是 14464，而不是 80000 這個數字？<br>(b) 如果想讓本題第 7 行的執行結果恰好為 80000，應如何修改程式碼？ |
-| [15a](ch03/hw3_15a/hw3_15a.c)<br>[15c](ch03/hw3_15c/hw3_15c.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw3_15, 數字精度的問題 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  float num1=30000.1F;`<br>`07　　  float num2=0.0004F;`<br>`08　　  printf("%f\n",num1+num2);`<br>`09　　`<br>`10　　  system("pause");`<br>`11　　  return 0;`<br>`12　　}`<br>(a) 試執行此程式碼，您會得到什麼結果？<br>(b) 於數學上，30000.1+0.0004=30000.1004，試說明執行此程式碼後，為什麼得不到這個結果？<br>(c) 如果想讓本題的執行結果恰好為 30000.1004，應如何改進？試撰寫一個完整的程式碼來改進之。 |
-| [16](ch03/hw3_16/hw3_16.c) | 試撰寫一程式，利用 sizeof 關鍵字查詢下列各種資料型態所佔的位元組：<br>(a) `unsigned int`<br>(b) `double`<br>(c) `unsigned short int` |
-| [17](ch03/hw3_17/hw3_17.c) | 試撰寫一程式，利用 sizeof 關鍵字查詢下列各常數所佔的位元組：<br>(a) 578<br>(b) 784000000<br>(c) 6.78f<br>(d) 718.26<br>(e) 6.42e127 |
-| [18](ch03/hw3_18/hw3_18.c) | 假設浮點數變數 num1 與 num2 的值分別為 123.39f 與 3.8e5f，試撰寫一程式，將這兩個變數值轉換成整數。 |
-| [19b](ch03/hw3_19b/hw3_19b.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw3_19, 型態轉換的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  int num1=5,num2=8;`<br>`07　　  printf("%d\n",num1/num2);`<br>`08　　`<br>`09　　  system("pause");`<br>`10　　  return 0;`<br>`11　　}`<br>(a) 試解釋第 7 行的輸出結果為何是 0？<br>(b) 試修改程式碼，利用型態轉換的方式，使得第 7 行的輸出結果為 0.625000。 |
+|  Number  | Question |
+|:--------:|:---------|
+| [3-2](ch03/hw3_2/hw3_2.c) | 試修改 prog3_1，使得第 9 行與第 10 行可分別印出 num1 與 num2 的平方值。第 9 行與第 10 行的輸出結果應如下所示：<br>`num1 的平方為 153760000`<br>`num2 的平方為 27.394756` |
+| [3-12](ch03/hw3_12/hw3_12.c) | 試寫一程式，利用設定字元變數 ch 為 ASCII 碼的方式讓電腦發出一個警告音（警告音的 ASCII 碼為 7）。 |
+| [3-14](ch03/hw3_14/hw3_14.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw13_14, 數字溢位的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  unsigned short num=80000;`<br>`07　　  printf("%d\n",num);`<br>`08　　`<br>`09　　  system("pause");`<br>`10　　  return 0;`<br>`11　　}`<br>(a) 試說明執行此程式的結果，為什麼是 14464，而不是 80000 這個數字？<br>(b) 如果想讓本題第 7 行的執行結果恰好為 80000，應如何修改程式碼？ |
+| [3-15a](ch03/hw3_15a/hw3_15a.c)<br>[3-15c](ch03/hw3_15c/hw3_15c.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw3_15, 數字精度的問題 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  float num1=30000.1F;`<br>`07　　  float num2=0.0004F;`<br>`08　　  printf("%f\n",num1+num2);`<br>`09　　`<br>`10　　  system("pause");`<br>`11　　  return 0;`<br>`12　　}`<br>(a) 試執行此程式碼，您會得到什麼結果？<br>(b) 於數學上，30000.1+0.0004=30000.1004，試說明執行此程式碼後，為什麼得不到這個結果？<br>(c) 如果想讓本題的執行結果恰好為 30000.1004，應如何改進？試撰寫一個完整的程式碼來改進之。 |
+| [3-16](ch03/hw3_16/hw3_16.c) | 試撰寫一程式，利用 sizeof 關鍵字查詢下列各種資料型態所佔的位元組：<br>(a) `unsigned int`<br>(b) `double`<br>(c) `unsigned short int` |
+| [3-17](ch03/hw3_17/hw3_17.c) | 試撰寫一程式，利用 sizeof 關鍵字查詢下列各常數所佔的位元組：<br>(a) 578<br>(b) 784000000<br>(c) 6.78f<br>(d) 718.26<br>(e) 6.42e127 |
+| [3-18](ch03/hw3_18/hw3_18.c) | 假設浮點數變數 num1 與 num2 的值分別為 123.39f 與 3.8e5f，試撰寫一程式，將這兩個變數值轉換成整數。 |
+| [3-19b](ch03/hw3_19b/hw3_19b.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw3_19, 型態轉換的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  int num1=5,num2=8;`<br>`07　　  printf("%d\n",num1/num2);`<br>`08　　`<br>`09　　  system("pause");`<br>`10　　  return 0;`<br>`11　　}`<br>(a) 試解釋第 7 行的輸出結果為何是 0？<br>(b) 試修改程式碼，利用型態轉換的方式，使得第 7 行的輸出結果為 0.625000。 |
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -113,6 +113,9 @@
 - 使用 scanf() 函數應注意的事項
 - 輸出、輸入字元的函數
 
+|  Number  | Question |
+|:--------:|:---------|
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## 第 05 章 -- 運算子、運算式與敘述 ##
@@ -121,6 +124,9 @@
 - 運算子的優先順序
 - 運算式
 - 運算式的型態轉換
+
+|  Number  | Question |
+|:--------:|:---------|
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -131,6 +137,9 @@
 - 簡潔版的 if-else 敘述--條件運算子
 - 更好用的多重選擇--switch 敘述
 - 使用 goto 敘述
+
+|  Number  | Question |
+|:--------:|:---------|
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -145,6 +154,9 @@
 - 巢狀迴圈
 - 迴圈的跳離
 
+|  Number  | Question |
+|:--------:|:---------|
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## 第 08 章 -- 函數 ##
@@ -158,6 +170,9 @@
 - 前置處理器--#define
 - 再來看看 #include 前置處理器
 
+|  Number  | Question |
+|:--------:|:---------|
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## 第 09 章 -- 陣列與字串 ##
@@ -169,6 +184,9 @@
 - 字串的輸入與輸出函數
 - 字串陣列
 
+|  Number  | Question |
+|:--------:|:---------|
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## 第 10 章 -- 指標 ##
@@ -179,6 +197,9 @@
 - 指標與一維陣列
 - 指標與字串
 - 指向指標的指標--雙重指標
+
+|  Number  | Question |
+|:--------:|:---------|
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -192,6 +213,9 @@
 - 列舉型態
 - 使用自訂的型態--typedef
 
+|  Number  | Question |
+|:--------:|:---------|
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## 第 12 章 -- 檔案處理 ##
@@ -200,6 +224,9 @@
 - 有緩衝區的檔案處理函數
 - 無緩衝區的檔案處理函數
 - 二進位檔案的使用
+
+|  Number  | Question |
+|:--------:|:---------|
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -210,6 +237,9 @@
 - 條件式編譯
 - 命令列引數的使用
 
+|  Number  | Question |
+|:--------:|:---------|
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## 第 14 章 -- 動態記憶體配置與鏈結串列 ##
@@ -217,6 +247,9 @@
 - 動態記憶體配置
 - 鏈結串列
 - 鏈結串列的操作
+
+|  Number  | Question |
+|:--------:|:---------|
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -228,6 +261,9 @@
 - 位元運算子
 - 位元欄位
 
+|  Number  | Question |
+|:--------:|:---------|
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## 第 16 章 -- 邁向 C++ 之路 ##
@@ -238,5 +274,8 @@
 - 認識類別
 - 公有成員與私有成員
 - 建構元
+
+|  Number  | Question |
+|:--------:|:---------|
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
