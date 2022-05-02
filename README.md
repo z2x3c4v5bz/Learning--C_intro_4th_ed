@@ -21,7 +21,27 @@
 
 ## Table of Contents ##
 
-[第 1 章 -- 認識 C 語言](/ch01/)
+- [C 語言教學手冊 第四版 (習題個人解答)](#c-語言教學手冊-第四版-習題個人解答)
+  - [Abstract](#abstract)
+  - [Table of Contents](#table-of-contents)
+  - [第 01 章 -- 認識 C 語言](#第-01-章----認識-c-語言)
+  - [第 02 章 -- C 語言基本概述](#第-02-章----c-語言基本概述)
+  - [第 03 章 -- 基本資料型態](#第-03-章----基本資料型態)
+  - [第 04 章 -- 格式化的輸出與輸入](#第-04-章----格式化的輸出與輸入)
+  - [第 05 章 -- 運算子、運算式與敘述](#第-05-章----運算子運算式與敘述)
+  - [第 06 章 -- 選擇性敘述](#第-06-章----選擇性敘述)
+  - [第 07 章 -- 迴圈](#第-07-章----迴圈)
+  - [第 08 章 -- 函數](#第-08-章----函數)
+  - [第 09 章 -- 陣列與字串](#第-09-章----陣列與字串)
+  - [第 10 章 -- 指標](#第-10-章----指標)
+  - [第 11 章 -- 結構與其他資料型態](#第-11-章----結構與其他資料型態)
+  - [第 12 章 -- 檔案處理](#第-12-章----檔案處理)
+  - [第 13 章 -- 大型程式的發展](#第-13-章----大型程式的發展)
+  - [第 14 章 -- 動態記憶體配置與鏈結串列](#第-14-章----動態記憶體配置與鏈結串列)
+  - [第 15 章 -- 位元處理](#第-15-章----位元處理)
+  - [第 16 章 -- 邁向 C++ 之路](#第-16-章----邁向-c-之路)
+
+## 第 01 章 -- 認識 C 語言 ##
 
 - C 語言概述
 - 程式的規劃與實作
@@ -41,7 +61,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 2 章 -- C 語言基本概述](/ch02/)
+## 第 02 章 -- C 語言基本概述 ##
 
 - 簡單的例子
 - 解析 C 語言
@@ -66,7 +86,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 3 章 -- 基本資料型態](/ch03/)
+## 第 03 章 -- 基本資料型態 ##
 
 - 變數與常數
 - 基本資料型態
@@ -75,7 +95,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 4 章 -- 格式化的輸出與輸入](/ch04/)
+## 第 04 章 -- 格式化的輸出與輸入 ##
 
 - 輸出函數 printf()
 - 輸入函數 scanf()
@@ -84,7 +104,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 5 章 -- 運算子、運算式與敘述](/ch05/)
+## 第 05 章 -- 運算子、運算式與敘述 ##
 
 - 運算式與運算子
 - 運算子的優先順序
@@ -93,7 +113,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 6 章 -- 選擇性敘述](/ch06/)
+## 第 06 章 -- 選擇性敘述 ##
 
 - 我的程式會轉彎--if 敘述
 - 另外的選擇--if-else 敘述
@@ -103,7 +123,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 7 章 -- 迴圈](/ch07/)
+## 第 07 章 -- 迴圈 ##
 
 - 結構化程式設計
 - 使用 for 迴圈
@@ -116,7 +136,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 8 章 -- 函數](/ch08/)
+## 第 08 章 -- 函數 ##
 
 - 簡單的函數範例
 - 函數的基本架構
@@ -129,7 +149,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 9 章 -- 陣列與字串](/ch09/)
+## 第 09 章 -- 陣列與字串 ##
 
 - 一維陣列
 - 二維陣列與多維陣列
@@ -140,7 +160,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 10 章 -- 指標](/ch10/)
+## 第 10 章 -- 指標 ##
 
 - 指標概述
 - 使用指標變數
@@ -151,7 +171,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 11 章 -- 結構與其他資料型態](/ch11/)
+## 第 11 章 -- 結構與其他資料型態 ##
 
 - 認識結構
 - 巢狀結構
@@ -163,7 +183,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 12 章 -- 檔案處理](/ch12/)
+## 第 12 章 -- 檔案處理 ##
 
 - 檔案的觀念
 - 有緩衝區的檔案處理函數
@@ -172,7 +192,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 13 章 -- 大型程式的發展](/ch13/)
+## 第 13 章 -- 大型程式的發展 ##
 
 - 程式的模組化與實作
 - 於不同檔案裡使用全域變數
@@ -181,7 +201,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 14 章 -- 動態記憶體配置與鏈結串列](/ch14/)
+## 第 14 章 -- 動態記憶體配置與鏈結串列 ##
 
 - 動態記憶體配置
 - 鏈結串列
@@ -189,7 +209,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 15 章 -- 位元處理](/ch15/)
+## 第 15 章 -- 位元處理 ##
 
 - 數字系統與位元、位元組
 - 二進位系統
@@ -199,7 +219,7 @@
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
-[第 16 章 -- 邁向 C++ 之路](/ch16/)
+## 第 16 章 -- 邁向 C++ 之路 ##
 
 - 認識 C++
 - 簡單的例子
