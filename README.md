@@ -19,6 +19,12 @@
 >- 每章附有自我評量教學最適用
 >- 資料結構基本觀念導入最易懂
 
+![thumbnail](img/thumbnail.png)
+
+※ 原諒我題目內不附圖示。
+
+※ 圖書封面、內容皆為版權作者、出版商所有，本站所刊內容僅供教育、學習使用。
+
 ## Table of Contents ##
 
 - [C 語言教學手冊 第四版 (習題個人解答)](#c-語言教學手冊-第四版-習題個人解答)
@@ -68,8 +74,6 @@
 ### [Question 1-17](ch01/hw1_17/hw1_17.c) ###
 
 >試撰寫一程式，利用 printf() 函數以星號和空白字元印出下面的圖案：
-
-※ 原諒我題目內不附圖示。
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -142,8 +146,6 @@
 ### [Question 2-21](ch02/hw2_21/hw2_21.c) ###
 
 >接續習題 20，試將習題 20 重新編排後，再加上適當註解，使得程式碼更具可讀性。
-
-※ 原諒我題目內不附圖示。
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
@@ -408,8 +410,6 @@
 ### [Question 4-20](ch04/hw4_20/hw4_20.c) ###
 
 >試修改 prog4_22，使得字元的輸出是利用 putchar() 函數，而不是 printf() 函數。
-
-※ 原諒我題目內不附圖示。
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
