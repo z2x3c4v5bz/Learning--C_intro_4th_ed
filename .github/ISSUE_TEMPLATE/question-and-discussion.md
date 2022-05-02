@@ -1,6 +1,6 @@
 ---
 name: Question and Discussion
-about: Submit your question and the topic that you want to have a disucssion with
+about: Submit your question and the topic that you want to have a discussion with
   me by this template. :)
 title: "[Question and Discussion] "
 labels: question
