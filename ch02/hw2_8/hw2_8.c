@@ -1674,21 +1674,23 @@ float __cdecl __MINGW_NOTHROW strtof(const char * __restrict__ _Str,char ** __re
 
 #endif
 
-int main(void)
-{
-	int i=2;
-	if(i<5)
-	{
-		printf("變數i的值小於5");
-		printf("\n");
-	}
+int main(void){
+    
+    int i = 2;
 
-	system("pause");
-	return 0;
- }
+    if(i < 5)
+    {
+        printf("變數i的值小於5");
+        printf("\n");
+    }
+
+    system("pause");
+    return 0;
+    
+}
 
 
-/*
+/* Outcome
 
 變數i的值小於5
 Press any key to continue . . .

@@ -1,5 +1,4 @@
 /* hw1_17 */
-
 #include <stdio.h>
 #include <stdlib.h>
 

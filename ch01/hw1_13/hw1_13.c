@@ -1,5 +1,4 @@
 /* hw1_13 */
-
 #include <stdio.h>
 #include <stdlib.h>
 

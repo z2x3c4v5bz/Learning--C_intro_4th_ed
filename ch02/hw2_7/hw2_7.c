@@ -1674,18 +1674,21 @@ float __cdecl __MINGW_NOTHROW strtof(const char * __restrict__ _Str,char ** __re
 
 #endif
 
-int main(void)
-{
-	int i=5;
-	printf("%d+%d=%d\n",i,i,i+i);
-	system("pause");
-	return 0;
- }
+int main(void){
+
+    int i = 5;
+    
+    printf("%d + %d = %d\n", i, i, i + i);
+
+    system("pause");
+    return 0;
+
+}
 
 
-/*
+/* Outcome
 
-5+5=10
+5 + 5 = 10
 Press any key to continue . . .
 
 */
