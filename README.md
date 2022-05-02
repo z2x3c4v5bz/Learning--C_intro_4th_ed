@@ -29,6 +29,10 @@
 - 編譯與執行的過程
 - 本書的編排與慣例
 
+| No | Quiz |
+|:--:|:-----|
+| [1-13](ch01/hw1_13/hw1_13.c) | 試修改 prog1_1，使得它可以印出 "我愛C語言" 一行中文字。 |
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 [第 2 章 -- C 語言基本概述](/ch02/)
