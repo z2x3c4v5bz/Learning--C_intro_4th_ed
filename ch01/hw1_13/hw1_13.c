@@ -1,6 +1,4 @@
-/*  hw1_13
-    試修改 prog1_1，使得它可以印出 "我愛C語言" 一行中文字。
-*/
+/* hw1_13 */
 
 #include <stdio.h>
 #include <stdlib.h>
