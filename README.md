@@ -93,6 +93,17 @@
 - 查詢常數、變數或資料型態所佔位元組
 - 資料型態的轉換
 
+|  No  | Question |
+|:----:|:---------|
+| [2](ch03/hw3_2/hw3_2.c) | 試修改 prog3_1，使得第 9 行與第 10 行可分別印出 num1 與 num2 的平方值。第 9 行與第 10 行的輸出結果應如下所示：<br>`num1 的平方為 153760000`<br>`num2 的平方為 27.394756` |
+| [12](ch03/hw3_12/hw3_12.c) | 試寫一程式，利用設定字元變數 ch 為 ASCII 碼的方式讓電腦發出一個警告音（警告音的 ASCII 碼為 7）。 |
+| [14](ch03/hw3_14/hw3_14.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw13_14, 數字溢位的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  unsigned short num=80000;`<br>`07　　  printf("%d\n",num);`<br>`08　　`<br>`09　　  system("pause");`<br>`10　　  return 0;`<br>`11　　}`<br>(a) 試說明執行此程式的結果，為什麼是 14464，而不是 80000 這個數字？<br>(b) 如果想讓本題第 7 行的執行結果恰好為 80000，應如何修改程式碼？ |
+| [15a](ch03/hw3_15a/hw3_15a.c)<br>[15c](ch03/hw3_15c/hw3_15c.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw3_15, 數字精度的問題 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  float num1=30000.1F;`<br>`07　　  float num2=0.0004F;`<br>`08　　  printf("%f\n",num1+num2);`<br>`09　　`<br>`10　　  system("pause");`<br>`11　　  return 0;`<br>`12　　}`<br>(a) 試執行此程式碼，您會得到什麼結果？<br>(b) 於數學上，30000.1+0.0004=30000.1004，試說明執行此程式碼後，為什麼得不到這個結果？<br>(c) 如果想讓本題的執行結果恰好為 30000.1004，應如何改進？試撰寫一個完整的程式碼來改進之。 |
+| [16](ch03/hw3_16/hw3_16.c) | 試撰寫一程式，利用 sizeof 關鍵字查詢下列各種資料型態所佔的位元組：<br>(a) `unsigned int`<br>(b) `double`<br>(c) `unsigned short int` |
+| [17](ch03/hw3_17/hw3_17.c) | 試撰寫一程式，利用 sizeof 關鍵字查詢下列各常數所佔的位元組：<br>(a) 578<br>(b) 784000000<br>(c) 6.78f<br>(d) 718.26<br>(e) 6.42e127 |
+| [18](ch03/hw3_18/hw3_18.c) | 假設浮點數變數 num1 與 num2 的值分別為 123.39f 與 3.8e5f，試撰寫一程式，將這兩個變數值轉換成整數。 |
+| [19b](ch03/hw3_19b/hw3_19b.c) | 請參閱下面的程式碼，然後回答接續的問題：<br>`01　　/* hw3_19, 型態轉換的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void)`<br>`05　　{`<br>`06　　  int num1=5,num2=8;`<br>`07　　  printf("%d\n",num1/num2);`<br>`08　　`<br>`09　　  system("pause");`<br>`10　　  return 0;`<br>`11　　}`<br>(a) 試解釋第 7 行的輸出結果為何是 0？<br>(b) 試修改程式碼，利用型態轉換的方式，使得第 7 行的輸出結果為 0.625000。 |
+
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
 ## 第 04 章 -- 格式化的輸出與輸入 ##
