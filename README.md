@@ -52,6 +52,17 @@
 |  No  | Question |
 |:----:|:---------|
 | [3](ch02/hw2_3/hw2_3.c) | 試寫一個程式，可以列印出 "You are my best friend." 字串。 |
+| [4](ch02/hw2_4/hw2_4.c) | 試寫一個程式，可以印出如下的輸出結果：<br>`See you tomorrow.`<br>`Have a good night.` |
+| [5](ch02/hw2_5/hw2_5.c) | 試寫一程式，可計算 5+12 的值，並將結果列印出來。 |
+| [6](ch02/hw2_6/hw2_6.c) | 試寫一程式，可計算 6+7+24 的值，並將結果列印出來。 |
+| [7](ch02/hw2_7/hw2_7.c) | 試在您所使用的 C 語言開發環境裡找出 stdio.h 與 stdlib.h 這兩個檔案，請將它們的內容分別拷貝起來，然後分別貼在 hw2_1.c 裡的第 2 行與第 3 行的位置，取代掉<br>`#include <stdio.h>`<br>`#include <stdlib.h>`<br>這兩行，最後再編譯之。<br>以上的動作事實上就是編譯器所做的 "含括" 動作，只是現在是以手動方式將 stdio.h 與 stdlib.h 這兩個檔案含括進來罷了！如果執行本範例，您是否會得到與習題 1 相同的結果？ |
+| [8](ch02/hw2_8/hw2_8.c) | 試仿照習題 7 的步驟，將 prog2_2 重新編譯並執行之。 |
+| [10](ch02/hw2_10/hw2_10.c) | 試修改 prog2_2，使得第 9 行與第 10 行可以合併成一行來撰寫。
+| [11](ch02/hw2_11/hw2_11.c) | 試以 printf() 函數印出如下的圖案： |
+| [20](ch02/hw2_20/hw2_20.c) | 下面是一個簡單的 C 程式碼，但程式的編排方式並不易於閱讀。請重新編排它來提高程式的可讀性：<br>`01　　/* hwh2_20.c, 基本程式的練習 */`<br>`02　　#include <stdio.h>`<br>`03　　#include <stdlib.h>`<br>`04　　int main(void){int i=5;`<br>`05　　printf("%d+%d=%d\n",i,i,i+i);`<br>`06　　system("pause");return 0; }` |
+| [21](ch02/hw2_21/hw2_21.c) | 接續習題 20，試將習題 20 重新編排後，再加上適當註解，使得程式碼更具可讀性。 |
+
+※ 原諒我表格內不附圖示。
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
