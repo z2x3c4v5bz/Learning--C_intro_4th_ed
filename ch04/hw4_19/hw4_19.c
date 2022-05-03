@@ -14,7 +14,7 @@ int main(void){
     
     printf("請輸入一個字元: ");
     ch = getchar();
-    printf("num=%d, ASCII of ch=%d\n", num, ch);
+    printf("num = %d, ASCII of ch = %d\n", num, ch);
     
     system("pause");
     return 0;
@@ -26,7 +26,7 @@ int main(void){
 
 請輸入一個整數: 53
 請輸入一個字元: a
-num=53, ASCII of ch=97
+num = 53, ASCII of ch = 97
 Press any key to continue . . .
 
 */

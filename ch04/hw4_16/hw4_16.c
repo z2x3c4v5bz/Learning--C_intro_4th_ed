@@ -10,6 +10,7 @@ int main(void){
     
     printf("Input a string:");
     scanf("%s %s %s", str1, str2, str3);
+    
     printf("The string is %s %s %s\n", str1, str2, str3);
     
     system("pause");
