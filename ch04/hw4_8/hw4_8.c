@@ -2,17 +2,17 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
-{
-	printf("There is an old saying, \"Love me, love my dog.\"\n");
-	
-	system("pause");
-	
-	return 0;
+int main(void){
+
+    printf("There is an old saying, \"Love me, love my dog.\"\n");
+    
+    system("pause");
+    return 0;
+    
 }
 
 
-/*
+/* Outcome
 
 There is an old saying, "Love me, love my dog."
 Press any key to continue . . .
