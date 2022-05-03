@@ -8,7 +8,7 @@ int main(void){
 
     if(i < 5)
     {
-        printf("變數i的值小於5\n");
+        printf("變數 i 的值小於 5\n");
     }
 
     system("pause");
@@ -19,7 +19,7 @@ int main(void){
 
 /* Outcome
 
-變數i的值小於5
+變數 i 的值小於 5
 Press any key to continue . . .
 
 */
