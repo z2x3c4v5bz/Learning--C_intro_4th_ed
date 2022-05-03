@@ -2,17 +2,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
-{
-	unsigned int num=80000;
-	printf("%d\n",num);
-	
-	system("pause");
-	return 0;
+int main(void){
+
+    unsigned int num = 80000;
+
+    printf("%d\n", num);
+    
+    system("pause");
+    return 0;
+    
 }
 
 
-/*
+/* Outcome
 
 80000
 Press any key to continue . . .
