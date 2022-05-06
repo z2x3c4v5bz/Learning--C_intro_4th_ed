@@ -5,7 +5,8 @@
         "editor.renderIndentGuides": true,
         "editor.insertSpaces": true,
         "editor.detectIndentation": true,
-        "editor.tabSize": 4
+        "editor.tabSize": 4,
+        "editor.guides.indentation": true
     },
     "clang.executable" : "C:\\Program Files\\LLVM\\bin\\clang.exe",
     "clang.cxxflags": [
