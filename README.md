@@ -95,9 +95,10 @@
 
 >試寫一個程式，可以印出如下的輸出結果：
 >
->`See you tomorrow.`
->
->`Have a good night.`
+>```text
+>See you tomorrow.
+>Have a good night.
+>```
 
 ### [Question 2-5](ch02/hw2_5/hw2_5.c) ###
 
@@ -162,9 +163,10 @@
 
 >試修改 prog3_1，使得第 9 行與第 10 行可分別印出 `num1` 與 `num2` 的平方值。第 9 行與第 10 行的輸出結果應如下所示：
 >
->`num1 的平方為 153760000`
->
->`num2 的平方為 27.394756`
+>```text
+>num1 的平方為 153760000
+>num2 的平方為 27.394756
+>```
 
 ### [Question 3-12](ch03/hw3_12/hw3_12.c) ###
 
@@ -285,13 +287,17 @@
 
 >試撰寫一程式，利用 `printf()` 函數列印出如下的字串：
 >
->`I love C language best.`
+>```text
+>I love C language best.
+>```
 
 ### [Question 4-2](ch04/hw4_2/hw4_2.c) ###
 
 >試撰寫一程式，利用 `printf()` 函數列印出如下的字串（必須包含雙引號）：
 >
->`"I love C language best."`
+>```text
+>"I love C language best."
+>```
 
 ### [Question 4-3](ch04/hw4_3/hw4_3.c) ###
 
@@ -301,13 +307,17 @@
 
 >試撰寫一程式，利用 `printf()` 函數列印出如下的字串（必須包含雙引號）：
 >
->`"10/4=25"`
+>```text
+>"10/4=25"
+>```
 
 ### [Question 4-5](ch04/hw4_5/hw4_5.c) ###
 
 >試撰寫一程式，利用 `printf()` 函數列印出如下的字串（必須包含單引號）：
 >
->`'30% 的學生來自中部地區，42% 的學生來自南部地區。'`
+>```text
+>'30% 的學生來自中部地區，42% 的學生來自南部地區。'
+>```
 
 ### [Question 4-6](ch04/hw4_6/hw4_6.c) ###
 
@@ -321,7 +331,9 @@
 
 >試撰寫一程式，利用 `printf()` 函數將下列字串印出：
 >
->`There is an old saying, "Love me, love my dog."`
+>```text
+>There is an old saying, "Love me, love my dog."
+>```
 
 ### [Question 4-10](ch04/hw4_10/hw4_10.c) ###
 
