@@ -1421,7 +1421,7 @@
 
 ### [Question 9-21](ch09/hw9_21/hw9_21.c) ###
 
->試撰寫一函數 `double average(int arr[ROW][COL])`，可用來傳回二維陣列 `arr` 裡所有元素的平均值，其中 $ROW$ 與 $COL$ 是由前置處理器 `#define` 所定義的常數，$ROW$ 代表陣列的列數，$COL$ 為行數。
+>試撰寫一函數 `double average(int arr[ROW][COL])`，可用來傳回二維陣列 `arr` 裡所有元素的平均值，其中 `ROW` 與 `COL` 是由前置處理器 `#define` 所定義的常數，`ROW` 代表陣列的列數，`COL` 為行數。
 
 ### [Question 9-22](ch09/hw9_22/hw9_22.c) ###
 
@@ -1431,7 +1431,7 @@
 >void add(int A[ROW][COL], int B[ROW][COL], int C[ROW][COL])
 >```
 >
->可用來計算矩陣 $A$ 與 $B$ 的相加，並把相加後的結果放到矩陣 $C$ 裡。$ROW$ 與 $COL$ 是由前置處理器 `#define` 所定義的常數，$ROW$ 代表陣列的列數，$COL$ 為行數。
+>可用來計算矩陣 `A` 與 `B` 的相加，並把相加後的結果放到矩陣 `C` 裡。ROW 與 `COL` 是由前置處理器 `#define` 所定義的常數，`ROW` 代表陣列的列數，`COL` 為行數。
 
 ### [Question 9-23](ch09/hw9_23/hw9_23.c) ###
 
