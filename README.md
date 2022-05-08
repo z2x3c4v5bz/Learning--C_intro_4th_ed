@@ -2264,32 +2264,126 @@
 
 ### [Question 16-3](ch16/hw16_3/hw16_3.cpp) ###
 
+>試將第二章的範例 prog2_1 改成以 C++ 的語法來撰寫。
+
 ### [Question 16-4](ch16/hw16_4/hw16_4.cpp) ###
+
+>試將第四章的範例 prog4_9 改成以 C++ 的語法來撰寫。
 
 ### [Question 16-5](ch16/hw16_5/hw16_5.cpp) ###
 
+>試將第七章的範例 prog7_6 改成以 C++ 的語法來撰寫。
+
 ### [Question 16-6](ch16/hw16_6/hw16_6.cpp) ###
+
+>試將第八章的範例 prog8_2 改成以 C++ 的語法來撰寫。
 
 ### [Question 16-7](ch16/hw16_7/hw16_7.cpp) ###
 
+>試修改習題 6，使得傳入 `add()` 的函數引數，可同為整數或是同為浮點數。`add()` 的傳回型態必須與引數的型態相同。
+
 ### [Question 16-8](ch16/hw16_8/hw16_8.cpp) ###
+
+>試將絕對值函數 `my_abs()` 多載，使得 `my_abs()` 的引數型態可為整數，或是浮點數。`my_abs()` 的傳回型態必須與引數的型態相同。
 
 ### [Question 16-9](ch16/hw16_9/hw16_9.cpp) ###
 
+>試撰寫 `max()` 函數的多載，其中 `max` 引數的型態為 `int`，且可以有兩個或三個引數，函數的傳回值為這些引數的最大值，傳回值的型態也試 `int`。
+
 ### [Question 16-10](ch16/hw16_10/hw16_10.cpp) ###
+
+>設類別 `Caaa` 的定義為：
+>
+>```Cpp
+>class Caaa
+>{
+>    public:
+>    int a;
+>    int b;
+>    int c;
+>};
+>```
+>
+>試在程式碼裡完成下列各敘述：
+>
+>(a) 試在主函數 `main()` 裡建立一個 `Caaa` 類別型態的變數 `obj`。
+>
+>(b) 將 `obj` 資料成員 `a` 的值設為 `1`，`b` 的值設為 `3`。
+>
+>(c) 計算 $a + b$ 之後設給成員 `c`。
+>
+>(d) 印出 `a`、`b` 與 `c` 的值。
 
 ### [Question 16-11](ch16/hw16_11/hw16_11.cpp) ###
 
+>參考程式 prog16_8，在類別 `CWin` 裡，除了保有原來的成員之外，請加入一個具有 50 個字元陣列的資料成員 `title`，代表視窗的標題，然後定義一 `set_title()` 函數，用來設定視窗物件的標題，以及 `display()` 函數，用來顯示視窗的標題，並測試 `set_title()` 與 `display()` 函數。
+
 ### [Question 16-12](ch16/hw16_12/hw16_12.cpp) ###
+
+>試設計一個 `CBox` 類別，具有 `length`、`width` 與 `height` 三個整數的資料成員，並完成下列的程式設計：
+>
+>(a) 定義 `int volume()` 函數，用來傳回 `CBox` 物件的體積。
+>
+>(b) 定義 `int surfactArea()` 函數，用來傳回 `CBox` 物件的表面積。
 
 ### [Question 16-13](ch16/hw16_13/hw16_13.cpp) ###
 
+>試設計一長方形類別 `CRect`，內含 `width`、`height` 與 `weight` 三個資料成員，並設計 `set()` 函數的多載，使其具有下面的功能：
+>
+>```Cpp
+>void set(double wg)                // 可設定長方形的重量
+>void set(int w, int h)             // 可設定長方形的寬和高
+>void set(double wg, int w, int h)  // 可設定長方形的重量、寬和高
+>```
+>
+>同時也請撰寫 `show()` 函數，用來顯示資料成員的值，並以實例測試之。
+
 ### [Question 16-14](ch16/hw16_14/hw16_14.cpp) ###
+
+>在 prog16_13 中，如果把函數 `area()` 的存取屬性改為 `private`，則程式是否還能正確執行？試撰寫一程式，將 `area()` 的存取屬性改為 `private`，用以驗證您的想法是否正確。
 
 ### [Question 16-15](ch16/hw16_15/hw16_15.cpp) ###
 
+>設有一 `CSphere` 類別，可用來表示一個圓球。此類別內含 `x`、`y` 與 `z` 三個資料成員，用來表示圓心的位置，另外還有一個 `radius` 資料成員，代表圓球的半徑。其部分程式碼的撰寫如下：
+>
+>```Cpp
+>class CSphere
+>{
+>    private:
+>        int x;             // 圓心的 x 座標
+>        int y;             // 圓心的 y 座標
+>        int z;             // 圓心的 z 座標
+>        int radius;        // 圓球的半徑
+>}
+>```
+>
+>(a) 試在 `CSphere` 類別裡加入 `void setLocation()` 函數，用來設定圓球之圓心位置。
+>
+>(b) 試在 `CSphere` 類別裡加入 `void setRadius()` 函數，用來設定圓球之半徑。
+>
+>(c) 試在 `CSphere` 類別裡加入 `double volume()` 函數，用來傳回 `CSphere` 物件的體積（圓球的體積為 $\frac{4}{3} \pi r^3$）。
+>
+>(d) 試在 `CSphere` 類別裡加入 `void showCenter()` 函數，用來顯示 `CSphere` 物件之圓心座標。
+
 ### [Question 16-17](ch16/hw16_17/hw16_17.cpp) ###
 
+>假設 `CRectangle` 類別的定義如下：
+>
+>```Cpp
+>class CRectangle
+>{
+>    private;
+>        int width;
+>        int height;
+>}
+>```
+>
+>(a) 試設計一個建構元 `CRectangle(int w, int h)`，當此建構元呼叫時，便會自動設定 $width = w$，$height = h$。
+>
+>(b) 請接續 (a) 的部分，請再設計一個沒有引數的建構元 `CRectangle()`，使得當此建構元被呼叫時，便會自動設定 $width = 10$，$height = 8$。
+
 ### [Question 16-18](ch16/hw16_18/hw16_18.cpp) ###
+
+>請參考習題 12，將 `length`、`width` 與 `height` 三個資料成員的存取屬性改為 `private`，並試設計兩個 `CBox()` 建構元，第一個 `CBox()` 建構元不須傳入任何引數，但它可以將 `length`、`width` 與 `height` 三個資料成員的值均設為 `1`。第二個 `CBox()` 建構元則可接收三個整數型態的引數，分別用來設定 `length`、`width` 與 `height` 三個資料成員的值。
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
