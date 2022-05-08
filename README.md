@@ -1973,32 +1973,69 @@
 
 ### [Question 12-3](ch12/hw12_3/hw12_3.c) ###
 
+>試撰寫一程式，以每 5 個字元為單位的方式，讀取 prog12_1 中所使用的資料檔 welcome.txt（提示：可利用 `fgets()` 函數來撰寫）。
+
 ### [Question 12-4](ch12/hw12_4/hw12_4.c) ###
+
+>試修改 prog12_2，使得檔案在拷貝時，也能夠計算出共有多少個字元被拷貝了（含換行字元）。
 
 ### [Question 12-5](ch12/hw12_5/hw12_5.c) ###
 
+>試修改 prog12_2，使得檔案在拷貝時，試以 `fgets()` 函數來讀取檔案，且以 `fputs()` 函數來寫入資料到 output.txt 中。
+
 ### [Question 12-6](ch12/hw12_6/hw12_6.c) ###
+
+>試修改 prog12_3，加入檢查開檔是否成功的程式碼，以確定檔案是正常的開啟。
 
 ### [Question 12-7](ch12/hw12_7/hw12_7.c) ###
 
+>試修改 prog12_4 的第 17 行，將 `printf()` 函數改成利用 `puts()` 函數來輸出字串。
+
 ### [Question 12-8](ch12/hw12_8/hw12_8.c) ###
+
+>試撰寫一程式，將文字檔 aa.txt 與 bb.txt 的內容合併成 cc.txt。
 
 ### [Question 12-9](ch12/hw12_9/hw12_9.c) ###
 
+>如果把 prog12_5 裡，第 7 行 `SIZE` 的定義修改為 16，程式是否可以正確執行？為什麼？
+
 ### [Question 12-10](ch12/hw12_10/hw12_10.c) ###
+
+>試修改 prog12_5，使得檔案在拷貝的同時，也可以於螢幕上印出拷貝的內容。
 
 ### Question 12-11 ###
 
 - [Question 12-11a](ch12/hw12_11/hw12_11a.c)
 - [Question 12-11b](ch12/hw12_11/hw12_11b.c)
 
+>試依下列的步驟完成程式設計：
+>
+>(a) 試產生 10 個 1～64 之間的整數亂數，並將它寫入純文字檔 "rand.txt" 內。
+>
+>(b) 撰寫一程式讀取純文字檔 rand.txt 的內容，並計算這 10 個數值的平均值。
+
 ### [Question 12-12](ch12/hw12_12/hw12_12.c) ###
+
+>設程式裡有定義下列的變數：
+>
+>```C
+>int arr[] = {12, 4, 5, 6};
+>int a = 12, b = 16;
+>```
+>
+>試利用 `write()` 函數將這些變數的值以二進位的模式寫入檔案 hw12_12.bin 中。
 
 ### [Question 12-13](ch12/hw12_13/hw12_13.c) ###
 
+>接續習題 12，是利用 `read()` 函數將 hw12_12.bin 檔案中的內容取出，並顯示在螢幕上。
+
 ### [Question 12-14](ch12/hw12_14/hw12_14.c) ###
 
+>試修改習題 12，請使用 `fwrite()` 函數，將變數的值改以二進位檔案的格式寫入檔案 hw12_14.bin 中。
+
 ### [Question 12-15](ch12/hw12_15/hw12_15.c) ###
+
+>接續習題 14，請使用 `fread()` 函數將檔案 hw12_14.bin 的內容取出，並顯示在螢幕上。
 
 ### Question 12-16 ###
 
@@ -2007,10 +2044,22 @@
 - [Question 12-16a (without buffer)](ch12/hw12_16(without_buffer)/hw12_16a.c)
 - [Question 12-16b (without buffer)](ch12/hw12_16(without_buffer)/hw12_16b.c)
 
+>試依下列的步驟完成程式設計：
+>
+>(a) 試產生 10 個 1～16 之間的整數亂數，並將它寫入二進位檔 "rand.bin" 內。
+>
+>(b) 撰寫一程式讀取二進位檔 rand.bin 的內容，並找出這 10 個數值的最大值與平均值。
+
 ### Question 12-17 ###
 
 - [Question 12-17a](ch12/hw12_17/hw12_17a.c)
 - [Question 12-17b](ch12/hw12_17/hw12_17b.c)
+
+>試依下列步驟完成程式設計：
+>
+>(a) 修改 prog12_8，是建立 3 個 `struct data` 型態之物件陣列 `student`，並將它寫入二進位檔 "student.bin" 內。
+>
+>(b) 撰寫一程式讀取 (a) 中所建立之二進位檔的內容，並將結果顯示在螢幕上。
 
 ### Question 12-18 ###
 
@@ -2018,6 +2067,18 @@
 - [Question 12-18b (with buffer)](ch12/hw12_18(with_buffer)/hw12_18b.c)
 - [Question 12-18a (without buffer)](ch12/hw12_18(without_buffer)/hw12_18a.c)
 - [Question 12-18b (without buffer)](ch12/hw12_18(without_buffer)/hw12_18b.c)
+
+>設程式裡有定義下列的變數：
+>
+>```C
+>int arr[] = {11326, 4445, 15589, 23740, 76840};
+>```
+>
+>(a) 試將陣列 `arr` 的值，以純文字檔的模式儲存在檔案 "hw12_18.txt" 裡。
+>
+>(b) 試將陣列 `arr` 的值，以二進位檔的模式儲存在檔案 "hw12_18.bin" 裡。
+>
+>(c) 試比較檔案 hw12_18.txt 與 hw12_18.bin 的大小，並分析就節省記憶空間而言，採用哪一種方式來儲存數字較為經濟。
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
