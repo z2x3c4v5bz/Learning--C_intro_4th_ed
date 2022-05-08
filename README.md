@@ -1909,11 +1909,58 @@
 - [Question 11-18c](ch11/hw11_18c/hw11_18c.c)
 - [Question 11-18d](ch11/hw11_18d/hw11_18d.c)
 
+>下面的程式碼裡定義了列舉型態 `boolean`，請先閱讀它，並試著回答接續的問題：
+>
+>```C
+>/* hw11_18.c, 列舉型態的練習 */
+>#include <stdio.h>
+>#include <stdlib.h>
+>int main(void)
+>{
+>    enum boolean;
+>    {
+>        FALSE,
+>        TRUE
+>    }test;
+>    test = 5 < 20;
+>    if(test == TRUE)
+>        printf("5 < 20 成立\n");
+>    else
+>        printf("5 >= 20 不成立\n");
+>
+>    system("pause");
+>    return 0;
+>}
+>```
+>
+>(a) 列舉常數 `FALSE` 與 `TRUE` 的預設值各是多少？
+>
+>(b) 變數 `test` 佔了多少個位元組？
+>
+>(c) 程式的執行結果為何？試解釋為何會有這個執行結果。
+>
+>(d) 如果把 12～15 行修改成
+>
+>>```C
+>>if(test)
+>>    printf("5 < 20 成立\n");
+>>else
+>>    printf("5 >= 20 不成立\n");
+>>```
+>
+>則程式是否依然可以正確執行？為什麼？
+
 ### [Question 11-19](ch11/hw11_19/hw11_19.c) ###
+
+>試修改 prog11_14，使得不論按下大寫或小寫的英文字母 r、g 或 b，程式的執行結果均能列印出相對應的顏色。
 
 ### [Question 11-20](ch11/hw11_20/hw11_20.c) ###
 
+>如果將 prog11_15 的第 9 行 `SCORE` 型態的定義移到 `main()` 函數內，在編譯時您會得到什麼樣的錯誤訊息？試解釋錯誤發生的原因。
+
 ### [Question 11-22](ch11/hw11_22/hw11_22.c) ###
+
+>試以格式 11.7.2 的定義方式改寫 prog11_15。
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
