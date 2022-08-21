@@ -2091,27 +2091,63 @@
 
 ### [Question 13-4](ch13/hw13_4/hw13_4.c) ###
 
+>在 13.1 節所建立的專案 my_prj 中，於檔案 area.c 裡，如果沒有第二行的 `PI` 的定義，則在編譯時會有什麼情況產生？試解釋這種情況發生的原因。
+
 ### [Question 13-5](ch13/hw13_5/hw13_5.c) ###
+
+>試修改 13.1 節所建立的專案 my_prj，使得函數 `area()`、`peri()`、與 `show()` 是在同一個檔案內（檔案名稱請取為 function.c，專案名稱請用 prj13_5）。
 
 ### [Question 13-6](ch13/hw13_6/hw13_6.c) ###
 
+>試修改第八章的 prog8_1，使得主程式 `main()` 與 `star()` 是分存於兩個不同的檔案來編譯（包含主程式的檔案請存成 hw13_6.c，包含 `star()` 函數的檔案請存成 star.c）。
+
 ### [Question 13-7](ch13/hw13_7/hw13_7.c) ###
+
+>如果於 prog13_3 中，把函數模組 count.c 裡第 5 行的 `extern` 關鍵字拿掉，然後重新編譯，您會得到什麼樣的結果？試解釋為何會有這種結果的產生？
 
 ### [Question 13-8](ch13/hw13_8/hw13_8.c) ###
 
+>試修改第八章的 prog8_15，使得主程式 `main()` 與 `func()`是分存於兩個不同的檔案來編譯（包含主程式的檔案請存成 hw13_8.c，包含 `func()` 函數的檔案請存成 func.c）。
+
 ### [Question 13-9](ch13/hw13_9/hw13_9.c) ###
+
+>試修改第八章的 prog8_17，把主程式 `main()`，以及 `area()` 和 `peri()` 分存於三個不同的檔案來編譯（包含主程式的檔案請存成 hw13_9.c，包含 `area()` 函數的檔案請存成 area.c，包含 `peri()` 函數的檔案請存成 peri.c）。
 
 ### [Question 13-10](ch13/hw13_10/hw13_10.c) ###
 
+>試修改 prog13_4，將第 7 行的 `#ifdef` 改寫成利用 `#ifndef` 來判斷 `STR` 是否沒有被定義過，若沒有，則印出 "`STR 沒有定義`" 字串，否則印出 "`Hello C language`" 字串。
+
 ### [Question 13-11](ch13/hw13_11/hw13_11.c) ###
+
+>試修改 prog13_5，加入一個 `#elif` 敘述，用來判別 `SIZE` 的值如果介於 10 ~ 20 之間，則印出 "`Welcome`" 字串。
 
 ### [Question 13-13](ch13/hw13_13/hw13_13.c) ###
 
+>試修改 prog13_7 中所探討的問題，也就是修改 area.h，成為 area2.h，使得把 prog13_7 裡的第 4 與第 5 行對調，程式依然可以正確編譯執行。
+
 ### [Question 13-14](ch13/hw13_14/hw13_14.c) ###
+
+>試撰寫一程式，可利用命令列引數的方式接收一個字元，程式的輸出則是印出該字元相對應的 ASCII 碼。
 
 ### [Question 13-15](ch13/hw13_15/hw13_15.c) ###
 
+>試撰寫一程式，可利用命令列引數的方式接收一個整數 $n$。程式的輸出則可列出 $n$ 的 "`Hello kitty!`" 字串，如下所示（提示：可利用字串轉換整數函數 `atoi()` 完成）：
+>
+>```Dos
+>C:\prog> hw13_15 3
+>Hello kitty!
+>Hello kitty!
+>Hello kitty!
+>```
+
 ### [Question 13-16](ch13/hw13_16/hw13_16.c) ###
+
+>試著模仿 Dos 指令 type 的功能，在命令列中輸入執行檔名稱（執行檔名稱請用 hw13_16）與欲顯示的檔案名稱（為一文字檔）後，即可將該檔案的內容顯示在螢幕中，如下面的範例：
+>
+>```Dos
+>C:\prog> hw13_16 welcome.txt
+>Welcome to the
+>world of C language
 
 [![table_of_contents](https://img.shields.io/badge/%E5%9B%9E%E5%88%B0%E7%9B%AE%E9%8C%84-Top-blue)](#table-of-contents)
 
