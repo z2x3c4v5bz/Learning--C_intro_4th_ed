@@ -2,44 +2,45 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
-{
-	int i;
-	
-	for(i=41;i<=64;i++)
-		printf("ASCII第%d碼的字元為%c\n",i,i);
-	
-	system("pause");
-	return 0;
+int main(void){
+    
+    int i;
+    
+    for(i = 41; i <= 64; i++)
+        printf("ASCII 第 %d 碼的字元為 %c\n", i, i);
+    
+    system("pause");
+    return 0;
+
 }
 
 
-/*
+/* Outcome
 
-ASCII第41碼的字元為)
-ASCII第42碼的字元為*
-ASCII第43碼的字元為+
-ASCII第44碼的字元為,
-ASCII第45碼的字元為-
-ASCII第46碼的字元為.
-ASCII第47碼的字元為/
-ASCII第48碼的字元為0
-ASCII第49碼的字元為1
-ASCII第50碼的字元為2
-ASCII第51碼的字元為3
-ASCII第52碼的字元為4
-ASCII第53碼的字元為5
-ASCII第54碼的字元為6
-ASCII第55碼的字元為7
-ASCII第56碼的字元為8
-ASCII第57碼的字元為9
-ASCII第58碼的字元為:
-ASCII第59碼的字元為;
-ASCII第60碼的字元為<
-ASCII第61碼的字元為=
-ASCII第62碼的字元為>
-ASCII第63碼的字元為?
-ASCII第64碼的字元為@
+ASCII 第 41 碼的字元為 )
+ASCII 第 42 碼的字元為 *
+ASCII 第 43 碼的字元為 +
+ASCII 第 44 碼的字元為 ,
+ASCII 第 45 碼的字元為 -
+ASCII 第 46 碼的字元為 .
+ASCII 第 47 碼的字元為 /
+ASCII 第 48 碼的字元為 0
+ASCII 第 49 碼的字元為 1
+ASCII 第 50 碼的字元為 2
+ASCII 第 51 碼的字元為 3
+ASCII 第 52 碼的字元為 4
+ASCII 第 53 碼的字元為 5
+ASCII 第 54 碼的字元為 6
+ASCII 第 55 碼的字元為 7
+ASCII 第 56 碼的字元為 8
+ASCII 第 57 碼的字元為 9
+ASCII 第 58 碼的字元為 :
+ASCII 第 59 碼的字元為 ;
+ASCII 第 60 碼的字元為 <
+ASCII 第 61 碼的字元為 =
+ASCII 第 62 碼的字元為 >
+ASCII 第 63 碼的字元為 ?
+ASCII 第 64 碼的字元為 @
 Press any key to continue . . .
 
 */
