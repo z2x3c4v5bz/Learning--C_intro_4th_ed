@@ -4,21 +4,23 @@
 
 void kitty(void);
 
-int main(void)
-{
-	kitty();
-	
-	system("pause");
-	return 0;
+int main(void){
+
+    kitty();
+    
+    system("pause");
+    return 0;
+    
 }
 
-void kitty(void)
-{
-	printf("Holle Kitty\n");
+void kitty(void){
+
+    printf("Holle Kitty\n");
+    
 }
 
 
-/*
+/* Outcome
 
 Holle Kitty
 Press any key to continue . . .

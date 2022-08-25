@@ -4,25 +4,27 @@
 
 int cub(int);
 
-int main(void)
-{
-	int num=2;
-	
-	printf("%d^3=%d\n",num,cub(num));
-	
-	system("pause");
-	return 0;
+int main(void){
+
+    int num = 2;
+    
+    printf("%d ^ 3 = %d\n", num, cub(num));
+    
+    system("pause");
+    return 0;
+
 }
 
-int cub(int n)
-{
-	return n*n*n;
+int cub(int n){
+    
+    return n * n * n;
+
 }
 
 
-/*
+/* Outcome
 
-2^3=8
+2 ^ 3 = 8
 Press any key to continue . . .
 
 */

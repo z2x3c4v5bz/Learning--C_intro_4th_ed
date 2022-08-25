@@ -8,61 +8,64 @@ int is_prime(int);
 
 long int ans;
 
-int main(void)
-{
-	int p=1,cont=1;
-	
-	while(cont<=8)
-		if(is_mersenne_prime(p++))
-			printf("第%d個森梅尼質數是%ld\n",cont++,ans);
-	
-	system("pause");
-	return 0;
+int main(void){
+    
+    int p = 1, cont = 1;
+    
+    while(cont <= 8)
+        if(is_mersenne_prime(p++))
+            printf("第 %d 個森梅尼質數是 %ld\n", cont++, ans);
+    
+    system("pause");
+    return 0;
+
 }
 
-int is_mersenne_prime(int p)
-{
-	int num;
-	
-	if(p%2==0&&p!=2)
-		return 0;
-	
-	num=pow(2,p)-1;
-	
-	if(is_prime(num))
-	{
-		ans=num;
-		return 1;
-	}
-	
-	return 0;
+int is_mersenne_prime(int p){
+
+    int num;
+    
+    if(p % 2 == 0 && p != 2)
+        return 0;
+    
+    num = pow(2, p) - 1;
+    
+    if(is_prime(num))
+    {
+        ans = num;
+        return 1;
+    }
+    
+    return 0;
+
 }
 
-int is_prime(int num)
-{
-	int i;
-	
-	for(i=2;i<=num/2;i++)
-		if(num%i==0)
-			return 0;
-			
-	if(num!=1)
-		return 1;
-	else
-		return 0;
+int is_prime(int num){
+
+    int i;
+    
+    for(i = 2; i <= num / 2; i++)
+        if(num % i == 0)
+            return 0;
+            
+    if(num != 1)
+        return 1;
+    else
+        return 0;
+
 }
 
 
-/*
+/* Outcome
 
-第1個森梅尼質數是3
-第2個森梅尼質數是7
-第3個森梅尼質數是31
-第4個森梅尼質數是127
-第5個森梅尼質數是8191
-第6個森梅尼質數是131071
-第7個森梅尼質數是524287
-第8個森梅尼質數是2147483647
+第 1 個森梅尼質數是 3
+第 2 個森梅尼質數是 7
+第 3 個森梅尼質數是 31
+第 4 個森梅尼質數是 127
+第 5 個森梅尼質數是 8191
+第 6 個森梅尼質數是 131071
+第 7 個森梅尼質數是 524287
+第 8 個森梅尼質數是 2147483647
 Press any key to continue . . .
 
 */

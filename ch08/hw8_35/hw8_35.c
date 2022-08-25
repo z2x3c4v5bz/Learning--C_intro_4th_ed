@@ -15,10 +15,11 @@ int main(void){
     
     system("pause");
     return 0;
+
 }
 
 
-/*
+/* Outcome
 
 半徑為 1.0 的圓的面積 = 3.14
 長為 5.0，寬為 4.6 的長方形的面積 = 23.00
