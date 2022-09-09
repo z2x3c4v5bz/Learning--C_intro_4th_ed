@@ -3,37 +3,42 @@
 #include<stdlib.h>
 #include"linklist.h"
 
-NODE *insertFirstNode(NODE *first,int item);
+NODE *insertFirstNode(NODE *first, int item);
 
-int main(void)
-{
-	int arr[]={12,43,56,34};
-	NODE *first;
-	
-	first=createList(arr,4);
-	printf("Before:\n");
-	printList(first);
-	first=insertFirstNode(first,53);
-	printf("After:\n");
-	printList(first);
-	freeList(first);
-	
-	system("pause");
-	return 0;
+int main(void){
+
+    int arr[] = {12, 43, 56, 34};
+    NODE *first;
+    
+    first = createList(arr, 4);
+
+    printf("Before:\n");
+    printList(first);
+    first = insertFirstNode(first, 53);
+
+    printf("After:\n");
+    printList(first);
+    freeList(first);
+    
+    system("pause");
+    return 0;
+
 }
 
-NODE *insertFirstNode(NODE *first,int item)
-{
-	NODE *newnode;
-	newnode=(NODE *)malloc(sizeof(NODE));
-	newnode->data=item;
-	newnode->next=first;
-	
-	return newnode;
+NODE *insertFirstNode(NODE *first, int item){
+
+    NODE *newnode;
+
+    newnode = (NODE *)malloc(sizeof(NODE));
+    newnode->data = item;
+    newnode->next = first;
+    
+    return newnode;
+
 }
 
 
-/*
+/* Output
 
 Before:
  12 43 56 34
