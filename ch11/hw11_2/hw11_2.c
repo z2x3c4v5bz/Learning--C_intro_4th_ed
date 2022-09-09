@@ -2,52 +2,53 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void)
-{
-	struct date
-	{
-		int year;
-		int month;
-		int day;
-	}holiday={2004,4,26},festival;
-	
-	do
-	{
-		printf("輸入2005: ");
-		scanf("%d",&festival.year);
-		fflush(stdin);
-	}while(festival.year!=2005);
-	
-	do
-	{
-		printf("輸入12: ");
-		scanf("%d",&festival.month);
-		fflush(stdin);
-	}while(festival.month!=12);
-	
-	do
-	{
-		printf("輸入25: ");
-		scanf("%d",&festival.day);
-		fflush(stdin);
-	}while(festival.day!=25);
-	
-	printf("\nholiday=%02d/%02d/%d\n",holiday.month,holiday.day,holiday.year);
-	printf("festival=%02d/%02d/%d\n",festival.month,festival.day,festival.year);
-	
-	system("pause");
-	return 0;
+int main(void){
+
+    struct date
+    {
+        int year;
+        int month;
+        int day;
+    }holiday = {2004, 4, 26}, festival;
+    
+    do
+    {
+        printf("輸入2005: ");
+        scanf("%d", &festival.year);
+        fflush(stdin);
+    }while(festival.year != 2005);
+    
+    do
+    {
+        printf("輸入12: ");
+        scanf("%d", &festival.month);
+        fflush(stdin);
+    }while(festival.month != 12);
+    
+    do
+    {
+        printf("輸入25: ");
+        scanf("%d", &festival.day);
+        fflush(stdin);
+    }while(festival.day != 25);
+    
+    printf("\nholiday = %02d/%02d/%d\n", holiday.month, holiday.day, holiday.year);
+    printf("festival = %02d/%02d/%d\n", festival.month, festival.day, festival.year);
+    
+    system("pause");
+    return 0;
+
 }
 
 
-/*
+/* Output
 
 輸入2005: 2005
 輸入12: 12
 輸入25: 25
 
-holiday=04/26/2004
-festival=12/25/2005
+holiday = 04/26/2004
+festival = 12/25/2005
 Press any key to continue . . .
 
 */
