@@ -4,36 +4,38 @@
 #include <fcntl.h>
 #include <io.h>
 #include <sys/stat.h>
-int main(void)
-{
-	int f1;
-	int i;
-	int arr[]={11326,4445,15589,23740,76840};
-	
-	f1=open("hw12_18.txt",O_CREAT|O_WRONLY|O_TEXT);
-	
-	if(f1!=-1)
-	{
-		printf("數列為:");
-		for(i=0;i<5;i++)
-			printf("%6d",arr[i]);
-		printf("\n");
-		
-		write(f1,arr,sizeof(arr));
-		
-		close(f1);
-		
-		printf("資料已寫入檔案!!\n");
-	}
-	else
-		printf("檔案開啟失敗!!\n");
-	
-	system("pause");
-	return 0;
+
+int main(void){
+
+    int f1;
+    int i;
+    int arr[] = {11326, 4445, 15589, 23740, 76840};
+    
+    f1 = open("hw12_18.txt", O_CREAT|O_WRONLY|O_TEXT);
+    
+    if(f1 != -1)
+    {
+        printf("數列為:");
+        for(i = 0; i < 5; i++)
+            printf("%6d", arr[i]);
+        printf("\n");
+        
+        write(f1, arr, sizeof(arr));
+        
+        close(f1);
+        
+        printf("資料已寫入檔案!!\n");
+    }
+    else
+        printf("檔案開啟失敗!!\n");
+    
+    system("pause");
+    return 0;
+
 }
 
 
-/*
+/* Output
 
 數列為: 11326  4445 15589 23740 76840
 資料已寫入檔案!!
