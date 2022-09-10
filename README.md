@@ -1,4 +1,4 @@
-# C 語言教學手冊 第四版 (習題個人解答) #
+# C 語言教學手冊 第四版（習題個人解答） #
 
 [![issue](https://img.shields.io/github/issues/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/issues)
 [![forks](https://img.shields.io/github/forks/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/network)
@@ -21,6 +21,8 @@
 
 ![thumbnail](img/thumbnail.png)
 
+※ 習題開發環境為 Windows OS。
+
 ※ 原諒我題目內不附圖示。
 
 ※ 請留意，文中數學公式在瀏覽器頁面中可能無法正確顯示。
@@ -29,7 +31,7 @@
 
 ## Table of Contents ##
 
-- [C 語言教學手冊 第四版 (習題個人解答)](#c-語言教學手冊-第四版-習題個人解答)
+- [C 語言教學手冊 第四版（習題個人解答）](#c-語言教學手冊-第四版習題個人解答)
   - [Abstract](#abstract)
   - [Table of Contents](#table-of-contents)
   - [Chapter 01 -- 認識 C 語言](#chapter-01----認識-c-語言)
