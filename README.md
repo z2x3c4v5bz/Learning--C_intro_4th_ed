@@ -1,6 +1,6 @@
 # C 語言教學手冊 第四版（習題個人解答） #
 
-[![issue](https://img.shields.io/github/issues/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/issues)
+[![issue](https://img.shields.io/github/discussions/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/discussions)
 [![forks](https://img.shields.io/github/forks/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/network)
 [![stars](https://img.shields.io/github/stars/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/stargazers)
 [![release](https://img.shields.io/github/release/z2x3c4v5bz/Learning--C_intro_4th_ed/all)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/releases)
@@ -21,7 +21,7 @@
 
 ![thumbnail](img/thumbnail.png)
 
-※ 習題開發環境為 Windows OS。
+※ 習題開發環境為 Microsoft Windows 系列 x64 作業系統，並採用軟體 Dev-C++ 5.0.0.5 為開發工具。
 
 ※ 原諒我題目內不附圖示。
 
