@@ -58,4 +58,4 @@ dkms.conf
 
 # Other
 .vscode/
-.DS_Store
+.DS_Store/
