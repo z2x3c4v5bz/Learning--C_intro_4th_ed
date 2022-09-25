@@ -1,6 +1,6 @@
 # C 語言教學手冊 第四版（習題個人解答） #
 
-[![issue](https://img.shields.io/github/discussions/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/discussions)
+[![discussions](https://img.shields.io/github/discussions/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/discussions)
 [![forks](https://img.shields.io/github/forks/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/network)
 [![stars](https://img.shields.io/github/stars/z2x3c4v5bz/Learning--C_intro_4th_ed)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/stargazers)
 [![release](https://img.shields.io/github/release/z2x3c4v5bz/Learning--C_intro_4th_ed/all)](https://github.com/z2x3c4v5bz/Learning--C_intro_4th_ed/releases)
@@ -27,7 +27,7 @@
 
 ※ 請留意，文中數學公式在瀏覽器頁面中可能無法正確顯示。
 
-※ 圖書封面、章節內容、圖書資訊、習題皆為版權作者、出版商所有，本站所刊內容僅供教育、學習使用。
+※ 圖書封面、圖書資訊、章節內容、習題皆為版權作者、出版商所有，本站所刊內容僅供教育、學習使用。
 
 ## Table of Contents ##
 
