@@ -21,7 +21,7 @@
 
 ![thumbnail](img/thumbnail.png)
 
-※ 習題開發環境為作業系統 Microsoft Windows 7/10 x64，並採用軟體 Dev-C++ 5.0.0.5 為開發工具。
+※ 習題練習的作業系統為 Microsoft Windows 7/10 x64，並採用軟體 Dev-C++ 5.0.0.5 為開發工具。
 
 ※ 原諒我題目內不附圖示。
 
