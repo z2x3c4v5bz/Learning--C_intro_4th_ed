@@ -12,6 +12,8 @@
 
 **Auther:** 洪維恩
 
+**Publisher:** 旗標出版股份有限公司
+
 **Introduction:**
 
 >- 循序漸進從頭打好 C 語言基礎

@@ -60,3 +60,4 @@ dkms.conf
 .vscode/
 .DS_Store/
 .DS_Store
+*.db
